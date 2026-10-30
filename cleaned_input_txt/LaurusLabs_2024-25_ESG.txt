@@ -1,0 +1,1454 @@
+Business Responsibility & Sustainability Reporting
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity boundary
+1 Corporate Identity Number (CIN) of the Listed Entity :L24239AP2005PLC047518
+2 Name of the Listed Entity :Laurus Labs Limited
+3 Year of incorporation :2005
+4 Registered office address :Laurus Enclave, Plot Office 01, E. Bonangi Village, Parawada, Mandal, Anakapalli
+District- 531 021, Andhra Pradesh, India.
+5 Corporate address :2nd Floor, Serene Chambers, Road No.7, Banjara Hills, Hyderabad - 500 034,
+T elangana, India
+6 E-mail :secretarial@lauruslabs.com
+7 T elephone :+91 40 6659 4333
+8 Website :www.lauruslabs.com
+9 Financial year for which reporting is being done :FY 2024-25
+10 Name of the Stock Exchange(s) where shares are listed :BSE Limited, National Stock Exchange of India Limited
+11 Paid-up Capital :INR 107,85,04982
+12 Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the BRSR report:Mr. G. Venkateswar Reddy, Company Secretary and Compliance Officer,T elephone: +91 40 6659 4333,Email: secretarial@lauruslabs.comAddress: 2
+nd Floor, Serene Chambers, Road No.7, Banjara Hills, Hyderabad - 500 034,
+T elangana, India
+13 Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. for the entity and all the entities which form a part of its consolidated financial statements, taken together).:Standalone
+14 Name of assurance provider :Deloitte Haskins & Sells LLP
+15 Type of assurance obtained :Limited assurance on BRSR Core
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+Sr. No.Description of Main Activity Description of Business Activity% of Turnover of the
+entity
+01 Pharmaceuticals & Bio productDevelopment, manufacturing & services Chemical & Chemical products, Pharmaceuticals, Medicinal Chemical, Bio & Botanical Products 100%
+17. Products/Services sold by the entity (accounting for 90% of the entity's Turnover):
+Sr. No.Product/Service NIC Code% of total Turnover
+contributed
+01 Development, manufacture and sale of API & Formulations 21009 100%
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of plants Number of Offices Total
+National
+Visakhapatnam, Andhra Pradesh, India 7 1 8
+Hyderabad, T elangana, India 1 1 2
+International NIL NIL NIL
+LAURUS LABS LIMITED
+19. Markets served by the entity:
+a. Number of locations
+Locations Number
+National (No. of States) 27
+International (No. of Countries) 105
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 65.33%
+c. A brief on types of customers
+Our Company caters to a diverse range of customers includes major pharma companies, generics players and institutional
+customers across various countries.
+IV. Employees
+20. Details as at the end of Financial Year:
+a. Employees and workers (including differently abled):
+Sr.
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+EMPLOYEES
+1. Permanent (D) 6167 5695 92% 472 8%
+2. Other than Permanent (E) NIL NIL NIL NIL NIL
+3. Total employees (D + E) 6167 5695 92% 472 8%
+WORKERS4. Permanent (F) NIL NIL NIL NIL NIL
+5. Other than Permanent (G) 6300 6220 99% 80 1%
+6. Total workers (F + G) 6300 6220 99% 80 1%
+b. Differently abled Employees and workers:
+Sr.
+NoParticulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D) 1 NIL NIL 1 100%
+2. Other than Permanent (E) NIL NIL NIL NIL NIL
+3. Total differently abled employees (D + E) 1 NIL NIL 1 100%
+DIFFERENTLY ABLED WORKERS4. Permanent (F) NIL NIL NIL NIL NIL
+5. Other than permanent (G) NIL NIL NIL NIL NIL
+6. Total differently abled workers (F + G) NIL NIL NIL NIL NIL
+21. Participation/Inclusion/Representation of women
+Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 10 2 20.0%
+Key Management Personnel 1 NIL --
+22. Turnover rate for permanent employees and workers
+(Disclose trends for the past 3 years)
+FY 25
+(Turnover rate in current FY)FY 24
+(Turnover rate in previous FY)FY 23
+(Turnover rate in the year prior to the
+previous FY)
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 18% 16% 17% 18% 22% 18% 19% 26% 19%
+Permanent Workers NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+Sr.
+No.Name of the holding / subsidiary / associate companies / joint ventures (A)CIN/FCRNIndicate whether holding/ Subsidiary/ Associate/ Joint Venture% of shares held by listed entityDoes the entity indicated at column A, participate in the Business Responsibility initiatives of the listed entity? (Yes/No)
+1 Sriam Labs Private Limited U24239TG2002PTC038490 Subsidiary 100%
+The BRSR prepared above is for Laurus Labs Limited Standalone entity.2 Laurus Synthesis Private LimitedU24110TG2020PTC140333 Subsidiary 100%
+3 Laurus Specialty Chemicals Private LimitedU24110TG2022PTC168791 Subsidiary 100%
+4 Laurus Bio Private Limited U02423KA2005PTC036770 Subsidiary 76.32%
+5 Immunoadoptive Cell Therapy Private LimitedU74999MH2018PTC315497 Associate 34.89%
+6 Ethan Energy India Private LimitedU40100TG2018FTC125395 Associate 26%
+7 Laurus Generics SA (Pty) ltd Subsidiary 100%
+8 Laurus Holdings Limited Subsidiary 100%
+9 Laurus Generics GmbH Step Down Subsidiary 100%
+10 Laurus Generics Inc Step Down Subsidiary 49.24% Directly and 50.76%
+through Laurus Holdings Limited
+11 KRKA Pharma Private Limited U21000TS2024FTC184449 Joint Venture 49%
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+(ii) Turnover (in H ) 5217 crores
+(iii) Net worth (in H ) 4564 crores
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible
+Business Conduct:
+Stakeholder group from
+whom complaint is receivedGrievance Redressal Mechanism in Place (Yes/No)FY 25 Current Financial Year FY 24 Previous Financial Year
+(If Yes, then provide web-link for grievance redress policy)Number of
+complaints filed
+during the yearNumber of
+complaints
+pending
+resolution at
+close of the yearRemarksNumber of
+complaints filed
+during the yearNumber of
+complaints
+pending
+resolution at
+close of the yearRemarks
+Communities Yes NIL NIL NA NIL NIL NA
+Investors (other than shareholders)Yes NIL NIL NA NIL NIL NA
+Shareholders Yes NIL NIL NA NIL NIL NA
+Employees and workers Yes NIL NIL NA NIL NIL NA
+Customers Yes NIL NIL NA NIL NIL NA
+Value Chain Partners Yes NIL NIL NA NIL NIL NA
+Other (please specify) NIL NIL NIL NA NIL NIL NA
+Policies:
+Community: https://www.lauruslabs.com/Investors/PDF/Policies/Corporate_Social_Responsibility_Policy.pdf
+Investor & Shareholders: https://www.lauruslabs.com/investors_home.htmlEmployees & workers: https://www.lauruslabs.com/Investors/PDF/Policies/PGH.pdfCustomers : Customer feedback policyBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+26. Overview of the entity's material responsible business conduct issues
+Indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters that
+present a risk or an opportunity to your business, the rationale for identifying the same, approach to adapt or mitigate the risk along with its financial implications, as per the following format
+Our approach to materiality: At Laurus Labs, we acknowledge our responsibility to meet stakeholder expectations to position our business better and enhance the value we create. The materiality assessment has allowed us to comprehend stakeholder concerns and helps in developing a strategy that fits our business, prioritising the most relevant topics and impact. We performed a sustainability-related materiality assessment to identify the sustainability issues that are most critical to our business and our stakeholders. This process assists us in identifying sustainability focus areas and informs our strategy and the content of our reporting.
+We align our identification of material sustainability topics with the GRI Universal Standards considering information relating to the pharmaceutical sector, our regulatory requirements and matters raised during engagements with our people and our external stakeholders. This year we've focused on five top priority areas i.e. product safety, ownership and control, waste management and circularity, leadership policy and oversight on sustainability, tax transparency and labelling, protection of human rights and occupational health and safety. More information on our sustainability materiality assessment process and outcomes can be found in our Integrated Report.
+Sr.
+NoMaterial Issue Identified Risk / Opportunity Rational for identifying risk or opportunity In case of risk approach to adapt or mitigate Financial implication
+of risk or opportunity
+01 Environment, Health and Safety (EHS)Risk Operations are subjected to varieties of regional and global governmental, and non-governmental EHS rules and regulations.- Improving focus on sustainable energy
+- Strengthening and promoting a safety culture programme and awareness across the company
+- Conducting periodic audits in high-risk sitesRisk
+02 Industry risk Risk Sectoral and market downturns could have potential and immediate impact on company performance- Analysing industry and pharma-sectoral trends and periodic horizon scanning
+- Ongoing plans to implement a business continuity plan to minimise risksRisk
+03 Regulatory risk Risk The pharmaceutical sector is highly regulated and it is under continual surveillance and scrutiny by regulatory bodies and authorities. Inability to meet requirements may have potential negative impacts on the business- Improving compliance/ regulatory requirements review mechanism
+- Utilising the information management system to detect changes in the regulatory environment and their impact periodicallyRisk
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+Sr.
+NoMaterial Issue Identified Risk / Opportunity Rational for identifying risk or opportunity In case of risk approach to adapt or mitigate Financial implication
+of risk or opportunity
+04 Competition risk Risk Market presence and penetration can be affected by domestic and international competitions- Building economies of scale in manufacturing, distribution and procurement to maintain cost advantage
+- Strengthening long-term relationships with key customers by offering better quality and service know-how
+- Introducing cost improvement initiatives and enhancing manufacturing efficiency at plants
+- Undertaking R&D initiatives, focusing on optimising raw material consumption and increasing manufacturing capabilityRisk
+05 Innovation risk Risk Development of innovative products is critical in improving the product portfolio of the company, Lack of innovation may negatively affect business growth.- Ensuring R&D capabilities and proven track record in filing, approval and commercialisation of niche products and processes.
+- Improving internal capabilities, know-how and enhancing process optimisation to strengthen market leadershipRisk
+06 Financial risks Risk The foreign exchange rate fluctuations could impact our company's net expenses and other future investments.- Implementing a strong currency hedging plan/ strategy and periodically evaluating derivatives to address risksRisk
+07 Capacity planning and Optimisation riskRisk Inability to meet dynamic customer needs can impact business growth- Tracking trends and horizon scanning to keep up with the market and deliver and satisfy customer needs
+- Implementing plans to ensure plant capacities meet market expectations
+- Process optimisation and improving efficiency to reduce production related risks such as plant malfunctionsRisk
+08 Operational risk Risk Efficiency and effectiveness of business operations can be significantly impacted if and when vendor customer relations are not managed effectively- Stabilising vendor risks and challenges by the implementation of action plans
+- Forging long-term partnerships with regional and global pharmaceutical companies to ensure revenue visibilityRiskBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting the NGRBC
+Principles and Core Elements.
+Disclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+Policy and Management Processes
+1. a. Whether your entity's policy/policies
+cover each principle and its core elements of the NGRBCs. (Yes/No)Yes No Yes No formal
+policy yetNo formal
+policy yetYes No Yes No
+b. Has the policy been approved by the Board? (Yes/No) Approved
+by HODNo Yes No No Yes No Yes No
+c. Web Link of the Policies, if available Pls refer
+Policy A
+below the
+tableNo Pls refer
+Policy A
+below the
+tableNo No Pls refer
+Policy B
+below the
+tableNA Pls refer
+Policy c
+below the
+tableNo
+2. Whether the entity has translated the policy into procedures. (Yes / No) Yes No Yes No No Yes No Yes No
+3. Do the enlisted policies extend to your value chain partners? (Yes/No) Yes No No No No Yes No No No
+4. Name of the national and international codes/certifications/labels/ standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest Alliance, and Trustee) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by your entity and mapped to each principle.Yes, We
+follow
+GRI
+guidelinesNo Yes.
+We follow
+ISO45001No No Yes
+ISO14001No Yes No
+5. Specific commitments, goals and targets set by the entity with defined timelines, if any.Nil Nil Nil Nil Nil Nil Nil Nil Nil
+6. Performance of the entity against the specific commitments, goals and targets along-with reasons in case the same are not met.Nil Nil Nil Nil Nil Nil Nil Nil Nil
+Governance, leadership and oversight
+7. Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and achievements (listed entity
+has flexibility regarding the placement of this disclosure) : Refer Chairman's statement in page number 14
+8. Details of the highest authority responsible for implementation and oversight of the Business Responsibility policy (ies). Dr. Satyanarayana Chava, Executive Director and Chief Executive Officer
+9. Does the entity have a specified Committee of the Board/ Director responsible for decision making on sustainability related issues? (Yes / No). If yes, details.Yes. Dr. Satyanarayana Chava, Executive Director and Chief Executive Officer is responsible
+Policy A: https://www.lauruslabs.com/images/pdfs/Business_Code_of_Conduct_and_Ethics_Policy.pdf
+Policy B: https://www.lauruslabs.com/images/pdfs/EHSS_Policy.pdfPolicy C: https://www.lauruslabs.com/Investors/PDF/Policies/Corporate_Social_Responsibility_Policy.pdf
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+10. Details of Review of NGRBCs by the Company:
+Subject for Review Indicate whether review was undertaken by Director / Committee
+of the Board/ Any other CommitteeFrequency (Annually/ Half yearly/ Quarterly/ Any other - please specify)
+P1 P2 P3 P4 P5 P6 P7 P8 P9 P1 P2 P3 P4 P5 P6 P7 P8 P9
+Performance against above policies and follow up action Business Steering Committee Annually
+Compliance with statutory requirements of relevance to the
+principles, and, rectification of any non-compliancesYes Yes Yes Yes Yes Yes Yes Yes Yes
+11. Has the entity carried out independent assessment/ evaluation of the working of its policies by an external agency? (Yes/No). If yes, Name of the agency. P1 P2 P3 P4 P5 P6 P7 P8 P9
+No No No No No No No No No
+12. If answer to question (1) above is "No" i.e. not all Principles are covered by a policy, reasons to be stated:
+Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+The entity does not consider the Principles material to its business (Yes/No) No No No No No No No No No
+The entity is not at a stage where it is in a position to formulate and implement the policies on specified principles (Yes/No) The Company has no direct policies. However, our ESG initiatives are
+mostly in alignment with the goals of these 9 policies
+The entity does not have the financial or/human and technical resources available for the task (Yes/No) No No No No No No No No No
+It is planned to be done in the next financial year (Yes/No) The Company has plans to implement these policies going forward
+Any other reason (please specify) NilBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key
+processes and decisions. The information sought is categorised as "Essential" and "Leadership". While the essential indicators are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically responsible.
+PRINCIPLE 1: Businesses should conduct and govern themselves with integrity, and in a manner that is Ethical, Transparent
+and Accountable.
+Essential Indicators
+1. Percentage coverage by training and awareness programmes on any of the Principles during the financial year:
+SegmentTotal number of training and awareness
+programmes heldTopics / principles covered under the training and its impact%age of persons
+in respective
+category covered
+by the awareness
+programmes
+Board of Directors Nil NA NA
+Key Managerial
+PersonnelNil NA NA
+Employees & Workers other than BoD and KMPsTrainings by Board of Directors
+3 sessions were conducted, accommodating approximately 100 Senior employees.1) Regulatory Inspection trends and readiness, current expectations of agencies on cGMP, Investigations, Cleaning, and Data Integrity.25
+2 Sessions were conducted, accommodating 78 Senior employees.2) Improvements in Lab investigations, finding the appropriate root cause, and preventive action50
+Employees & Workers other than BoD and KMPs
+3,61074 training sessions were conducted for approximately 6546 employees.1) The employees/operators' training is being controlled through the electronic system known as LMS ( Learning Management System)
+This system manages employee training in a comprehensive approach that ensures employees receive the necessary training and certifications to perform their roles effectively and safely. The LMS generates and tracks various types of training, including
+- Induction Training
+- Standard Operating Procedures (SOPs)
+- current Good Manufacturing Practices (cGMP)
+- External Training
+- Miscellaneous Training
+- Practical demo sessions
+- Unscheduled Training
+- General Training (Prevention of Sexual Harassment (POSH)
+The LMS schedules these trainings according to employees' roles,
+job responsibilities, and regulatory requirements, ensuring that they receive timely and appropriate training throughout their tenure with the company.
+Additionally, the system tracks employees' progress, completion status, and certification, facilitating compliance and audit readiness.
+Overall, using an LMS streamlines the training process, enhances compliance, and contributes to a well-trained and knowledgeable workforce.96
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+2. Details of fines / penalties /punishment/ award/ compounding fees/ settlement amount paid in proceedings (by the entity or by
+directors / KMPs) with regulators/ law enforcement agencies/ judicial institutions, in the financial year, in the following format (Note: the entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations and Disclosure Obligations) Regulations, 2015 and as disclosed on the entity's website): NIL
+Monetary
+NGRBC PrincipleName of the regulatory/
+enforcement agencies/
+judicial institutionsAmount (In INR) Brief of the CaseHas an Appeal been
+preferred? (Yes/No)
+Penalty/ Fine NA NIL NIL NA NA
+Settlement NA NIL NIL NA NA
+Compounding fee NA NIL NIL NA NA
+Non-Monetary
+NGRBC PrincipleName of the regulatory/
+enforcement agencies/
+judicial institutionsBrief of the CaseHas an Appeal been
+preferred? (Yes/No)
+Imprisonment NA NIL NA NA
+Punishment NA NIL NA NA
+3. Of the instances disclosed in Question 2 above, details of the Appeal/ Revision preferred in cases where monetary or non-monetary action has been appealed. NIL
+Case Details Name of the regulatory/ enforcement agencies/ judicial institutions
+NA NA
+4. Does the entity have an anti-corruption or anti-bribery policy? If yes, provide details in brief and if available, provide a web-link to the policy. Yes
+https://www.lauruslabs.com/images/pdfs/Business_Code_of_Conduct_and_Ethics_Policy.pdf
+5. Number of Directors/KMPs/employees/workers against whom disciplinary action was taken by any law enforcement agency for the charges of bribery/ corruption: NIL
+FY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Directors NIL NIL
+KMPs NIL NIL
+Employees NIL NIL
+Workers NIL NIL
+6. Details of complaints with regard to conflict of interest: NIL
+FY 25 (Current Financial Year) FY 24 (Previous Financial Year)
+Number Remarks Number Remarks
+Number of complaints received in relation to issues of Conflict of
+Interest of the DirectorsNIL NA NIL NA
+Number of complaints received in relation to issues of Conflict of Interest of the KMPsNIL NA NIL NA
+7. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law
+enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest. NILBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+8. Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following format:
+FY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Number of days of accounts payables 145 123
+9. Open-ness of business
+Parameter MetricsFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Concentration
+of Purchasesa. Purchases from trading houses as % of total purchases 41% 41%
+b. Number of trading houses where purchases are made from 305 381
+c. Purchases from top 10 trading houses as % of total purchases from trading houses 49% 52%
+Concentration of Salesa. Sales to dealers / distributors as % of total sales 0.10% 0.11%
+b. Number of dealers / distributors to whom sales are made 1 1
+c. Sales to top 10 dealers / distributors as % of total sales to dealers / distributors 100% 100%
+Share of RPTs in a. Purchases (Purchases with related parties / Total Purchases) 4.06 % 3.16 %
+b. Sales (Sales to related parties / Total Sales) 4.53% 3.85%
+c. Loans & advances (Loans & advances given to related parties / Total loans & advances) 94.86% 92.41%
+d. Investments (Investments in related parties / Total Investments made) 99.54% 99.46%
+1. Purchases from trading houses - The Company has evaluated its vendors/ suppliers of raw material and packing material for the purposes of identification and reporting of Trading Houses.
+2. Sales to Dealers/Distributors - The nature of Sales made by the Company are largely direct sales, sales to dealers and distributors is limited to only one customer, wherein, it is low both in terms of value and volume
+Leadership Indicators
+1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total number of awareness programs held Topics / principles covered under meeting%age of value chain partners
+covered by value of business
+done with such partners under
+the awareness programs
+1) One Training Session was conducted with the elected Strategic supplier base which clearly explained the key areas of Laurus Code of conduct and the necessity to assess, monitor and improve on these aspects
+2) We engage with the Strategic supplier base on individual basis to make them aware of Laurus expectations on Sustainable practices and get their feedbackLaurus Supplier Code of Conduct encompasses the following aspects of Sustainability
+1) Business Ethics
+2) Human rights
+3) Employment Practices
+4) Environment5) Health & Safety
+6) Supporting Communities
+Laurus had identified key strategic suppliers and have evaluated their
+Sustainability practices through Supplier assessment framework. The strategic suppliers were classified as critical and non-critical based on various criteria.60%
+2. Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board? (Yes/No)
+If Yes, provide details of the same.
+Yes. Declaration and recusing the respective board members in discussions and voting.
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+PRINCIPLE 2: Businesses should provide goods and services in a manner that is sustainable and safe
+1. Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the environmental and social
+impacts of product and processes to total R&D and capex investments made by the entity, respectively.
+Category Current Financial Year Previous Financial Year Details of improvements in environmental and social impacts
+R&D 5.36% 7.29% Investments in Gene Therapy
+Capex NIL NIL
+2. a. Does the entity have procedures in place for sustainable sourcing? Yes
+b. If yes, what percentage of inputs were sourced sustainably? 60% (as per Sustainability Report for FY24)
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+In keeping with our focus on sustainable company operations, Laurus Labs strives to reduce waste generated at the source whenever possible and recycle the residual waste. A considerable portion of the waste generated in the pharmaceutical industry is categorised as hazardous and must be handled with caution. We ensure that the waste generated by our operations is effectively monitored and disposed of in accordance with all relevant regulatory standards.
+We also regularly monitor our waste management systems and procedures to ensure that the waste generated throughout our sites undergoes proper and safe treatment. Solvent recovery systems deployed at our API locations allow predefined volumes of used solvent to be recovered. Our operational efficiency allows us to use resources conservatively and reduce waste. We comply with all the local and national regulations, in addition to adopting global standards in safe handling and disposal of emissions and effluents.
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity's activities (Yes / No). If yes, whether the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution Control Boards? If not, provide steps taken to address the same. No
+Leadership Indicators
+1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing industry) or for its
+services (for service industry)? If yes, provide details in the following format? NIL
+NIC CodeName of Product/
+Service% of total Turnover
+contributedBoundary for which the
+Life Cycle Perspective /
+Assessment was conductedWhether conducted by
+independent external agency
+(Yes/No)Results communicated in
+public domain (Yes/No) If yes,
+provide the web-link.
+NA NA NA NA NA NA
+2. If there are any significant social or environmental concerns and/or risks arising from production or disposal of your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means, briefly describe the same along-with action taken to mitigate the same. NIL
+Name of Product / Service Description of the risk / concern Action Taken
+NA NA NA
+3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing industry) or providing services (for service industry).
+Indicate input materialRecycled or re-used input material
+to total material
+FY 25 Current
+Financial YearFY 24 Previous
+Financial Year
+Total Recycled input material 143867.7 MT 160252.2 MTBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled, and safely disposed,
+as per the following format: NIL
+FY 25 Current Financial Year FY 24 Previous Financial Year
+Re-Used Recycled Safely Disposed Re-Used Recycled Safely Disposed
+Plastics (including packaging) NIL NIL NIL NIL NIL NIL
+E-waste NIL NIL NIL NIL NIL NIL
+Hazardous waste NIL NIL NIL NIL NIL NIL
+Other waste NIL NIL NIL NIL NIL NIL
+5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category. NIL
+Indicate product category Reclaimed products and their packaging materials as % of total products sold in respective category
+NA NA
+PRINCIPLE 3: Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicator
+1. a. Details of measures for the well-being of employees:
+Category% of employees covered by
+Total (A)Health insurance Accident insurance Maternity benefits Paternity Benefits Day Care facilities
+Number
+(B)% (B / A)Number
+(C)% (C / A)Number
+(D)% (D / A)Number
+(E)% (E / A)Number
+(F)% (F / A)
+Permanent employees
+Male 5695 5695 100% 5695 100% NA NA 5695 100% NA NA
+Female 472 472 100% 472 100% 472 100% NA NA 472 100%
+Total 6167 6167 100% 6167 100% 472 100% 5695 100% 472 100%
+Other than Permanent employeesMale NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Female NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Total NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+b. Details of measures of the well-being of workers:
+Category% of workers covered by
+Total (A)Health insurance Accident insurance Maternity benefits Paternity Benefits Day Care facilities
+Number
+(B)% (B / A)Number
+(C)% (C / A)Number
+(D)% (D / A)Number
+(E)% (E / A)Number
+(F)% (F / A)
+Permanent workersMale NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Female NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Total NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Other than Permanent workersMale NIL NIL NIL 6220 100% NIL NIL NIL NIL NIL NIL
+Female NIL NIL NIL 80 100% NIL NIL NIL NIL 80 100%
+Total NIL NIL NIL 6300 100% NIL NIL NIL NIL 80 100%
+Note: Workers are not on payroll of Laurus, other benefits will be taken care by contractor
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+c. Spending on measures towards well-being of employees and workers (including permanent and other than permanent) in the
+following format :
+FY 25 Current
+Financial YearFY 24 Previous
+Financial Year
+Cost incurred on well- being measures as a % of total revenue of the company 1.50% 1.67%
+The well-being costs mentioned include expenses for bus transportation and canteen facilities provided to both employees and workers. Additionally, health insurance, general medical expenses, and maternity and paternity benefits are extended to employees.
+2. Details of retirement benefits, for Current FY and Previous Financial Year.
+BenefitsFY 25 Current Financial Year FY 24 Previous Financial Year
+No. of employees
+covered as a % of
+total employeesNo. of workers
+covered as a % of
+total workersDeducted and
+deposited with
+the authority
+(Y/N/N.A.)No. of employees
+covered as a % of
+total employeesNo. of workers
+covered as a % of
+total workersDeducted and
+deposited with
+the authority
+(Y/N/N.A.)
+PF 100% NA YES 100% NA YES
+Gratuity 40% NA NA 34% NA NA
+ESI 17% NA YES 23% NA YES
+Others - please specify -- -- -- -- -- NA
+Statutory benefits to workers as per applicable laws being reimbursed by Company to the agencies for contract workers.3. Accessibility of workplaces
+Are the premises / offices of the entity accessible to differently abled employees and workers, as per the requirements of the Rights
+of Persons with Disabilities Act, 2016? If not, whether any steps are being taken by the entity in this regard. YES
+4. Does the entity have an equal opportunity policy as per the Rights of Persons with Disabilities Act, 2016? If so, provide a web-link to the policy. YES
+https://www.lauruslabs.com/Investors/PDF/Policies/NDP.pdf
+5. Return to work and Retention rates of permanent employees and workers that took parental leave.
+GenderPermanent employees Permanent workers
+Return to work rate Retention rate Return to work rate Retention rate
+Male 100% 100% NA NA
+Female 67% 100% NA NA
+Total 97% 100% NA NA
+6. Is there a mechanism available to receive and redress grievances for the following categories of employees and worker? If yes, give details of the mechanism in brief.
+Yes/No (If Yes, then
+give details of the
+mechanism in brief)
+Permanent Workers NA
+Other than Permanent Workers YES
+Permanent Employees YES
+Other than Permanent Employees YESBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+7. Membership of employees and worker in association(s) or Unions recognised by the listed entity:
+CategoryFY 25 (Current Financial Year) FY 24 (Previous Financial Year)
+Total employees
+/ workers in
+respective
+category (A)No. of employees
+/ workers in
+respective
+category, who
+are part of
+association(s) or
+Union (B)% (B / A)Total employees
+/ workers in
+respective
+category (C)No. of employees
+/ workers in
+respective
+category, who
+are part of
+association(s) or
+Union (D)% (D / C)
+Total Permanent Employees
+Male NIL NIL
+Female NIL NIL
+Total Permanent WorkersMale NIL NIL
+Female NIL NIL
+8. Details of training given to employees and workers:
+CategoryFY 25 Current Financial Year FY 24 Previous Financial Year
+Total (A)On Health and safety
+measuresOn Skill upgradation
+Total (D)On Health and safety
+measuresOn Skill upgradation
+No. (B) % (B / A) No. (C) % (C / A) No. (E) % (E / D) No. (F) % (F / D)
+EmployeesMale 5695 5695 100% 5695 100% 5567 5567 100% 5567 100%
+Female 472 472 100% 472 100% 440 440 100% 440 100%
+Total 6167 6167 100% 6167 100% 6007 6007 100% 6007 100%
+WorkersMale NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Female NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Total NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+9. Details of performance and career development reviews of employees and worker:
+CategoryFY 25 Current Financial Year FY 24 Previous Financial Year
+Total (A) No. (B) % (B / A) Total (C) No. (D) % (D / C)
+EmployeesMale 5695 5695 100% 5567 5567 100%
+Female 472 472 100% 440 440 100%
+Total 6167 6167 100% 6007 6007 100%
+WorkersMale NIL NIL NIL NIL NIL NIL
+Female NIL NIL NIL NIL NIL NIL
+Total NIL NIL NIL NIL NIL NIL
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+10 Health and safety management system:
+a. Whether an occupational health and safety management system has been implemented by the entity? (Yes/ No) . If yes, the
+coverage such system?
+Yes, all units are certified with ISO 45001:2018. We carry out internal audits to check the effectiveness of EHSMS
+periodically. Trained EHSMS coordinators and internal auditors are appointed to implement OHSMS.
+b. What are the processes used to identify work-related hazards and assess risks on a routine and non-routine basis by the entity?
+Various standard operating procedures such as (EHS/004: EHS Risk Assessment and EHS/028: EHS Internal audits, inspection) implementing to identify work related hazards and their associated risks. Before execution of any process we carry out the activity based risk assessment (ABRA) for non-process activities, HAZOP study (Hazard Operability) for process activities and ERA (Exposure Risk Assessment). We implement all recommendations to ensure the process is safe before execution. We have implemented change control program where all changes (which may create potential risks) are assessed prior to implementation and after thorough review, all changes are accepted. We follow line management responsibility approach in implementing safety and hence we engage our employees as One Day safety officer from other functions to identify unsafe situations. EHS department takes round on the shop floor and highlights the unsafe situations as well.
+We have engaged few employees as safety champion and they are available in each shift, observe and highlight all unsafe situations. These observations are reviewed by their respective Block in-charge followed by unit EHS lead.
+Also we trained many of our employees on behavior based safety and scheduling them to go for Safety Conversation once in a week. They will interact with person on the shop floor and identify the root cause of the noncompliance.
+We carry out different audits such as intra unit audit, audits from central EHS team and audits with the third party to improve our EHSMS.
+c. Whether you have processes for workers to report the work related hazards and to remove themselves from such risks. (Yes/ No)
+Yes, SOP EHS 028: EHS Internal Audit, Inspections, NC, and CAPA is in place. We encourage our workers to report all unsafe observations immediately. We have engaged our employees as safety champion who are reporting in each shift, takes round on the shop floor, monitors critical activities and reports all unsafe situations. Also we have dedicated EHS department who takes frequent rounds in shop floor to identify unsafe situations.
+SOP EHS 007: EHS Committee is in place. We have EHS committee members who highlight all unsafe situations to the EHS Department and in EHS committee as well.
+We have implemented Safety Suggestion Scheme and installed safety suggestion box at the main gate and encourage workers to share suggestions. EHS department collects all suggestions and take action accordingly. We do encourage workers to share suggestions during different EHS promotional activities such as National Safety Day celebration, World Environment Day Celebration etc. and EHS department also awards the worker to promote EHS culture.
+d. Do the employees/ worker of the entity have access to non-occupational medical and healthcare services? (Yes/ No)
+Yes, the employees/ workers of the entity have access to non-occupational medical and healthcare services. All employees are covered under health insurance, statutory health insurance (ESIC) as per eligibility, providing periodical health checkups and wellness programs.
+11. Details of safety related incidents, in the following format
+Safety Incident/Number Category*FY 2025 Current
+Financial YearFY 2024 Previous
+Financial Year
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) Employees 0 0
+Workers 0 0
+Total recordable work-related injuries Employees 0 0
+Workers 0 0
+No. of fatalities Employees 0 0
+Workers 0 0
+High consequence work-related injury or ill-health (excluding fatalities) Employees 0 0
+Workers 0 0
+*Including in the contract workforce
+The reporting boundary for the above indicator includes the Company's manufacturing units.Business Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+12. Describe the measures taken by the entity to ensure a safe and healthy work place.
+a. We have implemented various standard operating procedures (SOP) and Operational Control Procedures (OCP) to
+ensure safety at workplace.
+b. Periodical trainings are given to all workers on safe practices.
+c. Continuous inspections and periodical audits are carried out to identify all unsafe acts & conditions.
+d. We are carrying out several audits in the specific areas by the third party to identify the gaps and to make further improvement.
+e. Designed the workplace based on the latest statutory requirements and complying with all safety norms.
+f. Process safety studies are carried out for all processes before execution, risk assessment is done to make the process safe. All process safety requirements are implemented. Workplace monitoring is carried out to improve the industrial hygiene.
+g. EHS promotional activities are carried out to encourage safe practices and promote safety as a culture.
+h. Periodical review meeting with senior management to improve safety requirement.
+i. Emergency preparedness and response:
+- Fire protection which comprises of Detection, Alarm and Suppression system installed at all workplaces.
+- Four numbers of Multi-purpose Fire Tenders are in place.
+- All sites have Occupational Health Centers and Ambulances. Additionally, Two numbers of Advanced Life
+Support Ambulances are in place.
+- Emergency Response Teams on-site, who undergone a specific training from External Expert Agency.
+13. Number of Complaints on the following made by employees and workers:
+FY 25 (Current Financial Year) FY 24 (Previous Financial Year)
+Filed during the
+yearPending resolution
+at the end of yearRemarksFiled during the
+yearPending resolution
+at the end of yearRemarks
+Working Conditions NIL NIL NIL NIL
+Health & Safety NIL NIL NIL NIL
+14. Assessments for the year:
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Health and safety practices 100%
+Working Conditions 100%
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on significant risks / concerns arising from assessments of health & safety practices and working conditions.
+We implement all recommendations related to different safety audits, statutory audits and incidents. Best practices from other industries are implemented as well.
+All recommendations related to risk assessments are implemented to make the process safe.
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+Leadership Indicators
+1. Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees (Y/N) (B) Workers
+(Y/N).
+Yes, for both the employees and workers
+2. Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited by the value chain partners.
+The Company collects the proofs of deposits of statutory dues like payment challans etc. from the service value chain partners before releasing their bills regularly and ensures that the statutory dues have been deducted and deposited by the value chain partners with the relevant statutory authorities.
+3. Provide the number of employees / workers having suffered high consequence work- related injury / ill-health / fatalities (as reported in Q11 of Essential Indicators above), who have been are rehabilitated and placed in suitable employment or whose family members have been placed in suitable employment:
+Total no. of affected employees/ workersNo. of employees/workers that are
+rehabilitated and placed in suitable
+employment or whose family members
+have been placed in suitable employment
+FY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)FY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Employees NIL NIL NIL NIL
+Workers NIL NIL NIL NIL
+4. Does the entity provide transition assistance programs to facilitate continued employability and the management of career endings resulting from retirement or termination of employment? (Yes/ No) : No
+5. Details on assessment of value chain partners:
+% of value chain partners (by value of business done with such partners) that were assessed
+Health and safety practices We conduct yearly once sustainability assessment of our value chain partners, providing awareness
+program, conducting assessment. During the year 60% of our value chain partners have been assessed.Working Conditions
+6. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from assessments of
+health and safety practices and working conditions of value chain partners. : No
+PRINCIPLE 4: Businesses should respect the interests of and be responsive to all its stakeholders
+Essential Indicators
+1. Describe the processes for identifying key stakeholder groups of the entity.
+Our stakeholders includes Individuals, Groups, Companies or institutions that are part of our value chain.
+We follow the process of identification of the stakeholders is defined by their interest, impact and participation in
+operations of the Company including engagement on various environmental, social and governance matters and we classify accordingly. Our operations are integrated with stakeholder needs, interests and expectations.
+Over the years we have developed firm-level processes to encourage open and constructive interaction with our stakeholders. It reinforces our understanding of relevant matters and helps us identify those attributes of stakeholders that make them important to our business and necessitate meaningful engagement. Engaging with stakeholders provides us an opportunity to serve them in the best sustainable way and redefine our strategies to deliver the maximum value. By Partnering with our stakeholders, we involve them in the decision making, product and process improvement and create an enabling environment to do better together.
+Our sustainability programme brings together stakeholders from across the pharmaceutical value chain to identify and address the industry's most pressing environmental issues. One-on-one meetings, annual general meetings, training, group discussions, surveys, and supplier and custodial relationships are all examples of systematic channels of interaction with our stakeholders integrated throughout our business operations.
+At a strategic level, stakeholder issues are examined and taken into account. The stakeholder engagement framework represents how we connect with our stakeholders and address their major problems. The table below details the various stakeholder groups that have had direct or indirect contact with Laurus Labs, as well as their ways of involvement and key concerns.Business Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+2. List stakeholder groups identified as key for your entity and the frequency of engagement with each stakeholder group.
+Stakeholder
+GroupWhether identified as Vulnerable & Marginalised Group (Yes/No)Channels of Communication (Email, SMS, Newspapers, Pamphlets, Advertisement, Community Meetings, Notice Board, Website), OthersFrequency of engagement (Annually/Half Yearly/Quarterly/Others - Please specify)Purpose and scope of engagement including key topics and concerns raised during such engagement
+Customers NO - Customer audits
+- One-on-one meetings
+- ExhibitionsRegular interval - Safety
+- Customer data protection and privacy
+- Product efficacy
+- Quality
+- Sustainable supplies
+Investors and ShareholdersNO - Financial results/ investor calls
+- Television and print media interviews
+- Annual bankers meet, Attending investor conferences
+- Calls with investors based on their request
+- Email announcementsQuarterly & need basis - Business growth/ profitability
+- Newer opportunities
+- Risk management,
+- Governance
+Government and regulatorsNO - Regulatory audits
+- Engagement on a need basis
+- Participation in forumsOn need basis - Compliance
+- Stipulated timely reporting
+- Sustainable practices
+- Inclusive growth
+Employees NO - Formal induction at the time of joining
+- Technical and non-technical training programs
+- Town hall meetings
+- Operations review meetings
+- Quarterly newsletters
+- Intranet portal
+- International Safety Day celebrations
+- Laurus Labs Family Day-an annual cultural extravaganza
+- Annual sports meet
+- Programs and competitions for employees and their families
+- Grievance redressal mechanism
+- Continual feedback sessions
+- Mailers on Safety, Health especially
+- Feedback through Great Place to Work Survey
+- COVID-19 awarenessFrequently - Workplace safety, employee welfare, IR issues
+- Professional growth
+- Employee benefits and other facilities
+- Diversity at the workplace
+- Leadership connect sessions
+- Equal opportunities
+- Wages and benefits
+- Work-life balance
+Business partners / suppliers and service providersNO - Contract agreements
+- Global pharma meets
+- Symposiums
+- Seminars
+- One-to-One meetingsRegularly on need basis - Payment processing cycles
+- Business ethics and transparency
+- Sustainability performance
+Communities and NGOsNO - Direct meets with local representatives
+- Science exhibitions & health camps
+- Initiatives like community tree plantations, RO water facilities at public places, building community infrastructure, aid to government schools, hospitals and NGOs
+- Collaboration with government/NGOsFrequent and need basis - Community development (education, healthcare, sanitation, water)
+- Livelihood creation
+- Other social benefits
+- Local sourcing of labour
+- Managing conflict
+- Social licence to operate
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+Leadership Indicators
+1. Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if
+consultation is delegated, how is feedback from such consultations provided to the Board.
+Our Board of Directors serves as a source of advice and counsel in ensuring highest levels of corporate governance through risk control and regulatory compliance. The Board of Directors oversees the organisational management to assure that all the stakeholder demands are met promptly. By responsibly addressing the concerns of the stakeholders in our value chain, the Board of Directors and the senior management team ensure that the long-term interests of multiple parties are recognised. The committees appointed by the board focus on specific areas where they can make informed decisions and provide recommendations to the board on the matters in their areas.
+The Board commits to providing accurate and thorough financial and non-financial reporting, as well as a rigorous feedback mechanism. To protect stakeholder interests, we will adopt best practices for disclosures and be subject to internal and/or external assurance and governance procedures.
+2. Whether stakeholder consultation is used to support the identification and management of environmental, and social topics
+(Yes / No).
+Yes
+If so, provide details of instances as to how the inputs received from stakeholders on these topics were incorporated into policies
+and activities of the entity.
+Over the years we have developed firm-level processes to encourage open and constructive interaction with our stakeholders. It reinforces our understanding of relevant matters and helps us identify those attributes of stakeholders that make them important to our business and necessitate meaningful engagement. Engaging with stakeholders provides us an opportunity to serve them in the best sustainable way and redefine our strategies to deliver the maximum value. By partnering with our stakeholders, we involve them in the decision making, product and process improvement and create an enabling environment to do better together.
+We have adopted a structured approach to materiality assessment aligned to the GRI standards and IR framework that includes identifying a broad umbrella of relevant issues and prioritising them based on changing business needs and stakeholder feedback.
+3. Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalised stakeholder groups.
+At a strategic level, stakeholder issues are examined and taken into account. The stakeholder engagement framework represents how we connect with our stakeholders and address their major problems. The table provided in the principle 4 details the various stakeholder groups that have had direct or indirect contact with Laurus Labs, as well as their ways of involvement and key concerns.
+PRINCIPLE 5: Businesses should respect and promote human rights
+1. Employees and workers who have been provided training on human rights issues and policy(ies) of the entity, in the following format:
+CategoryFY 25 Current Financial Year FY 24 Previous Financial Year
+Total (A)No. of
+employees /
+workers covered
+(B)% (B / A) Total (C)No. of
+employees /
+workers covered
+(D)% (D / C)
+Employees
+Permanent 6167 6167 100% 6007 6007 100%
+Other than permanent Nil Nil Nil Nil Nil Nil
+Total Employees 6167 6167 100% 6007 6007 100%
+WorkersPermanent Nil Nil Nil Nil Nil Nil
+Other than permanent 6300 6300 100% 5623 5623 100%
+Total Workers 6300 6300 100% 5623 5623 100%Business Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+2. Details of minimum wages paid to employees and workers, in the following format:
+CategoryFY 25 Current Financial Year FY 24 Previous Financial Year
+Total (A)Equal to Minimum
+WageMore than
+Minimum WageTotal (D)Equal to Minimum
+WageMore than
+Minimum Wage
+No. (B) % (B / A) No. (C) % (C / A) No. (E) % (E / D) No. (F) % (F / D)
+Employees
+Permanent 6167 NIL 0% 6167 100% 6007 NIL NIL 6007 100%
+Male 5695 NIL 0% 5695 100% 5567 NIL NIL 5567 100%
+Female 472 NIL 0% 472 100% 440 NIL NIL 440 100%
+Other than Permanent NIL NIL 0% NIL NIL NIL NIL NIL NIL NIL
+Male NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Female NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+WorkersPermanent NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Male NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Female NIL NIL NIL NIL NIL NIL NIL NIL NIL NIL
+Other than Permanent 6300 Nil 0% 6300 100% 5623 NIL NIL 5623 100%
+Male 6220 Nil 0% 6220 100% 5556 NIL NIL 5556 100%
+Female 80 Nil 0% 80 100% 67 NIL NIL 67 100%
+3. Details of remuneration/salary/wages
+a. Median remuneration / wages:
+Male Female
+NumberMedian
+remuneration/
+salary/ wages of
+respective categoryNumberMedian
+remuneration/
+salary/ wages of
+respective category
+Board of Directors (BoD) 8 1,25,49421 2 84,20000
+Key Managerial Personnel 1 90,19396 NIL NA
+Employees other than BoD and KMP 5690 4,91892 471 3,69996
+Workers 5220 19736 80 19736
+b. Gross wages paid to females as % of total wages paid by the entity, in the following format:
+FY 25 Current
+Financial YearFY 24 Previous
+Financial Year
+Gross wages paid to females as % of total wages* 5% 6%
+Note: For FY 2023-24: Gross wages were considered equivalent to the Cost-to-Company (CTC) for employees.
+FY 2024-25: Gross wages for employees and workers are reported in line with the Industry Standards Note for BRSR Core referred to in
+the SEBI's Circular dated December 20.
+* Managerial remuneration was not considered for the calculation
+4. Do you have a focal point (Individual/ Committee) responsible for addressing human rights impacts or issues caused or contributed to by the business? (Yes/No)
+YES
+Head of Human Resources i.e. Mr. Narasimha Rao Chava, Executive Vice President (HR) and Head of Legal Department
+i.e. Mr. G. Venkateswar Reddy, Vice President (Legal and Company Secretary) will be responsible.
+5. Describe the internal mechanisms in place to redress grievances related to human rights issues.
+The Company has enforced various policies which take care of human rights and any grievances shall be escalated to the HR team which is basically responsible to implement the policies and accordingly HR team shall take suitable measures to redress grievances relating to violation of human rights, if any.
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+6. Number of Complaints on the following made by employees and workers:
+FY 25 Current Financial Year FY 24 Previous Financial Year
+Filed during
+the yearPending
+resolution at
+the end of yearRemarksFiled during
+the yearPending
+resolution at
+the end of yearRemarks
+Sexual Harassment Nil Nil NA Nil Nil NA
+Discrimination at workplace Nil Nil NA Nil Nil NA
+Child Labour Nil Nil NA Nil Nil NA
+Forced Labour/Involuntary Labour Nil Nil NA Nil Nil NA
+Wages Nil Nil NA Nil Nil NA
+Other human rights related issues Nil Nil NA Nil Nil NA
+7. Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, in the
+following format:
+FY 25 Current
+Financial YearFY 24 Previous
+Financial Year
+Total Complaints reported under Sexual Harassment on of Women at Workplace (Prevention, Prohibition and
+Redressal) Act, 2013 (POSH)Nil Nil
+Complaints on POSH as a % of female employees / workers Nil Nil
+Complaints on POSH upheld Nil Nil
+8. Mechanisms to prevent adverse consequences to the complainant in discrimination and harassment cases.
+The company has implemented Whistle Blower Mechanism where any discrimination and harassment cases can be
+directly brought to the notice of Board of Directors. Similarly, in sexual harassment cases, there is Internal Complaints Committees (ICCs) and relevant policies to ensure that complaint(s) shall not be met with adverse consequences.
+9. Do human rights requirements form part of your business agreements and contracts? (Yes/No)
+Yes, particularly relating to non-engagement of child labour, forced labour, non-discrimination at work places etc.
+10. Assessments for the year: NIL
+% of your plants and offices that were assessed (by entity or statutory authorities or third parties)
+Child labour 0%
+Forced/involuntary labour 0%
+Sexual harassment 0%
+Discrimination at workplace 0%
+Wages 0%
+Others - please specify 0%
+11. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at Question 10 above. No
+Leadership Indicators
+1. Details of a business process being modified / introduced as a result of addressing human rights grievances/complaints.
+There were no such grievances/ complaints in the Company.
+2. Details of the scope and coverage of any Human rights due-diligence conducted.
+No such third party due diligence was conducted.
+3. Is the premise/office of the entity accessible to differently abled visitors, as per the requirements of the Rights of Persons with
+Disabilities Act, 2016?
+Yes.Business Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+4. Details on assessment of value chain partners:
+Particulars % of value chain partners (by value of business done with such partners) that were assessed
+Sexual Harassment
+60%
+(As part of sustainability SCM conducts assessment on yearly basis)Discrimination at workplace
+Child LabourForced Labour/Involuntary LabourWagesOthers - please specify
+5. Provide details of any corrective actions taken or underway to address significant risks / concerns arising from the assessments at
+Question 4 above. Not applicable
+PRINCIPLE 6: Businesses should respect and make efforts to protect and restore the environment
+The reporting boundary for environment indicators was the Company's manufacturing units for 2023-24, additional offices (i.e. Head office and registered office) were included from 2024-25 onwards.
+The source for Purchasing Power Parity (PPP) is International Monetary Fund (IMF). The PPP rate considered is 20.66 for FY 24-25 and
+22.40 for FY 23-24.1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+ParameterFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+From renewable sources
+Total electricity consumption (A) 84232 GJ 74426 GJ
+Total fuel consumption (B) 30292 GJ ---
+Energy consumption sources (C) through other --- ---
+Total energy consumed from renewable sources (A+B+C) 114524 GJ 74426 GJ
+From non-renewable sourcesTotal electricity consumption (D) 9,00747 GJ 8,95833 GJ
+Total fuel consumption (E) 24,46895 GJ 24,66487 GJ
+Energy consumption Other sources (F) 731 GJ 848 GJ
+Total energy consumed from non-renewable sources (D+E+F) 33,48373 GJ 33,63168 GJ
+Total energy consumed (A+B+C+D+E+F) 34,62897 GJ 34,37594 GJ
+Energy intensity per rupee of turnover (Total energy consumed / Revenue from operations) 0.000066 0.000071
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total energy consumed / Revenue from operations adjusted for PPP)0.0014 0.0016
+Energy intensity in terms of physical Output - -
+Energy intensity (optional) - the relevant metric may be selected by the entity - -
+1. The Company has reassessed the classification and methodology of calculation of steam consumed. Accordingly, the figures for
+FY 2023-24 have been restated for consistent classification and measurement year on year.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes,
+name of the external agency
+Yes, independent assurance was carried out by Deloitte Haskins & Sells LLP
+2. Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance, Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any. No
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+3. Provide details of the following disclosures related to water, in the following format:
+ParameterFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Water withdrawal by source (in kLs)
+(i) Surface water -- --
+(ii) Groundwater -- --
+(iii) Third party water 15,68994 1583,058
+(iv) Seawater / desalinated water -- --
+(v) Others -- --
+Total volume of water withdrawal (in kLs) (i + ii + iii + iv + v) 15,68994 1583,058
+Total volume of water consumption (in kLs) 9,99103 9,64759
+Water intensity per rupee of turnover (Total water consumption / Revenue from operations) 0.000019 KL/rupee 0.000020 KL/rupee
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption / Revenue from operations adjusted for PPP)0.00040 0.00045
+Water intensity in terms of physical Output - -
+Water intensity (optional) - the relevant metric may be selected by the Entity - -
+Note:
+1. water consumption is equal to water withdrawal less water discharged.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes,
+name of the external agency.
+Yes, independent assurance was carried out by Deloitte Haskins & Sells LLP
+4. Provide the following details related to water discharged:
+ParameterFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Water discharge by destination and level of treatment (in kLs)
+(i) To Surface water -- --
+- No treatment
+- With treatment - please specify level of treatment
+(ii) To Groundwater -- --
+- No treatment
+- With treatment - please specify level of treatment
+(iii) To Seawater -- --
+- No treatment
+- With treatment - please specify level of treatment
+(iv) Sent to third-parties
+- No treatment
+- With treatment - please specify level of treatment* 5,69891 6,18299
+(v) Others - No treatment
+- With treatment - please specify level of treatment
+Total water discharged (in kLs) 5,69891 6,18299
+* Water discharged which is sent to third-party undergoes through primary level of treatment as required by the norms.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of
+the external agency.
+Yes, independent assurance was carried out by Deloitte Haskins & Sells LLP5. Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and implementation.
+Our operational units are not designed as ZLD. As per the EC terms of industrial cluster, we are disposing waste water to
+the common effluent treatment plants authorised by State Pollution Control Board (SPCB).Business Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+6. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter Please specify unitFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+NOx Tonnes 229 296
+SOx Tonnes 590 798
+Particulate matter (PM) Tonnes 132 170
+Persistent organic pollutants (POP) -- --
+Volatile organic compounds (VOC) ppm 382 383
+Hazardous air pollutants (HAP) -- --
+Others - please specify -- --
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of
+the external agency.
+Yes, independent assurance was carried out by Deloitte Haskins & Sells LLP7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity, in the following format:
+Parameter UnitFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Total Scope 1 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)Metric tonnes of CO
+2 equivalent3,15457 3,21270
+Total Scope 2 emissions (Break-up of the GHG into CO
+2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)Metric tonnes of CO
+2 equivalent181901 176679
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover (Total Scope 1 and Scope 2 GHG emissions / Revenue from operations)0.0000095 0.0000103
+Total Scope 1 and Scope 2 emission intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total Scope 1 and Scope 2 GHG emissions / Revenue from operations adjusted for PPP)0.00020 0.00023
+Total Scope 1 and Scope 2 emission intensity in terms of physical output - -
+Total Scope 1 and Scope 2 emission intensity (optional) - the relevant metric may be selected by the entity- -
+Note:
+1. The Company has reassessed the classification and methodology of calculation of steam consumed, the GHG emissions are
+consequently impacted. Accordingly, the figures for FY 2023-24 have been restated for consistency year on year.
+2. Scope 1 emission factors are sourced from Department for Environment, Food and Rural Affairs (DEFRA) and grid emission factor for Scope 2 is sourced from the Central Electricity Authority India.
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of the external agency.
+Yes, independent assurance was carried out by Deloitte Haskins & Sells LLP8. Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+Co-gen Boiler- We generates Power & Steam at a single platform:
+Earlier, we used to generate steam from our in-house boilers of capacity 2*16TPH and the steam produced from the boilers are
+used for our manufacturing activities in the same unit.
+Later, we installed the co-gen boiler of 35MT capacity in view of reducing the burden towards purchasing the electricity and to reduce our SCOPE-2 GHG emissions.
+This Boiler generates steam as well as 4.5MW of power per day which indirectly reducing the fuel consumption to produce equalent power by an external provider. Installation of Cogen boiler system benefitting as mentioned below:
+- Reduced Scope 2 GHG emissions
+- Optimised the fuel consumption
+- Utilising the waste heat appropriately
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+9. Provide details related to waste management by the entity, in the following format:
+ParameterFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Total Waste generated (in metric tonnes)
+Plastic waste (A) 495 540
+E-waste (B) 11.29 0.97
+Bio-medical waste (C) 12.01 13.35
+Construction and demolition waste (D)Battery waste (E) 11.00
+Radioactive waste (F)Other Hazardous waste. Please specify, if any. (G) 42312* 40145
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by composition i.e. by materials
+relevant to the sector)10893 11126
+Total (A+B + C + D + E + F + G+ H) 53734 51826
+Waste intensity per rupee of turnover (Total waste generated / Revenue from operations) 0.00000103 0.00000108
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total waste generated / Revenue from operations adjusted for PPP)0.000021 0.000024
+Waste intensity in terms of physical output
+Waste intensity (optional) - the relevant metric may be selected by the entityFor each category of waste generated, total waste recovered through recycling, re-using or
+other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled 30906 29867
+(ii) Re-used Nil Nil
+(iii) Other recovery operations 4783 4263
+Total 35689 34130
+For each category of waste generated, total waste disposed by nature of disposal method
+(in metric tonnes)
+Category of waste
+(i) Incineration 445 818
+(ii) Landfilling 6788 5752
+(iii) Other disposal operations 10812 11127
+Total 18045 17697
+The Hazardous Waste consisting of mixed spent solvent has been restated in 2023-24 to be consistent with the reporting done 2024-25.
+Other hazardous waste comprises of items such as spent solvents, evaporation salts, ETP sludge among others.Other non-hazardous waste comprises of items such as fly ash, fiber drums, scrap pipes, others.Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of
+the external agency.Yes, independent assurance was carried out by Deloitte Haskins & Sells LLPBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+10. Briefly describe the waste management practices adopted in your establishments. Describe the strategy adopted by your
+company to reduce usage of hazardous and toxic chemicals in your products and processes and the practices adopted to manage such wastes.
+In keeping with our focus on sustainable company operations, Laurus Labs strives to reduce waste generated at the source whenever possible and recycle the residual waste. A considerable portion of the waste generated in the pharmaceutical industry is categorised as hazardous and must be handled with caution. We ensure that the waste generated by our operations is effectively monitored and disposed of in accordance with all relevant regulatory standards.
+We also regularly monitor our waste management systems and procedures to ensure that the waste generated throughout our sites undergoes proper and safe treatment. Solvent recovery systems deployed at our API locations allow predefined volumes of used solvent to be recovered. Our operational efficiency allows us to use resources conservatively and reduce waste. We comply with all the local and national regulations, in addition to adopting global standards in safe handling and disposal of emissions and effluents.
+Some of the active measures and interventions to reduce processed waste from our operations are:
+- All used batteries are returned to the supplier or recycler. E-waste is collected and delivered to authorised recyclers
+- 100% of the hazardous waste produced was disposed safely across all units
+- E-waste is being sent to authorised recyclers
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife sanctuaries, biosphere
+reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where environmental approvals / clearances are required, please specify details in the following format: Nil
+Sr.
+No.Location of operations/offices Type of operationsWhether the conditions of environmental approval / clearance are being complied
+with? (Y/N) If no, the reasons thereof and Corrective action taken, if any.
+NA NA NA
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in the current financial year: Nil
+Name and brief
+details of projectEIA Notification
+No.DateWhether conducted by independent
+external agency (Yes / No)Results communicated in
+public domain (Yes / No)Relevant Web link
+NA NA NA NA NA NA
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water (Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act and rules thereunder (Y/N). If not, provide details of all such non-compliances, in the following format: Nil
+Sr.
+No.Specify the law / regulation / guidelines
+which was not complied withProvide details of the
+non- complianceAny fines / penalties / action taken by regulatory
+agencies such as pollution control boards or by courtsCorrective action taken,
+if any
+NA NA NA NA
+Leadership Indicators
+1. Water withdrawal, consumption and discharge in areas of water stress (in kLs):
+For each facility / plant located in areas of water stress, provide the following information:
+(i) Name of the area
+(ii) Nature of operations
+(iii) Water withdrawal, consumption and discharge in the following format:
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+ParameterFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Water withdrawal by source (in kLs)
+(i) Surface water Nil Nil
+(ii) Groundwater Nil Nil
+(iii) Third party water 15,68994 1583,058
+(iv) Seawater / desalinated water Nil Nil
+(v) Others Nil Nil
+Total volume of water withdrawal (in kLs) 15,68994 1583,058
+Total volume of water consumption (in kLs) 999103 964759
+Water intensity per rupee of turnover (Water consumed / turnover) 0.000019 KL/rupee 0.000020 KL/rupee
+Water intensity (optional) - the relevant metric may be selected by the entity
+Water discharge by destination and level of treatment (in kLs)
+(i) Into Surface water -- --
+- No treatment
+- With treatment - please specify level of treatment
+(ii) Into Groundwater -- --
+- No treatment
+- With treatment - please specify level of treatment
+(iii) Into Seawater -- --
+- No treatment
+- With treatment - please specify level of treatment
+(iv) Sent to third-parties
+- No treatment -- --
+- With treatment - please specify level of treatment 5,69891 6,18299
+(v) Others -- --
+- No treatment
+- With treatment - please specify level of treatment
+Total water discharged (in kLs) 5,69891 6,18299
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of
+the external agency. No
+2. Please provide details of total Scope 3 emissions & its intensity, in the following format:
+Parameter UnitFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Total Scope 3 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)Metric tonnes of CO
+2 equivalent91787 87212
+Total Scope 3 emissions per rupee of turnover 0.0000017 0.0000018
+Total Scope 3 emission intensity (optional) - the relevant metric may be selected by the entity
+Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If yes, name of
+the external agency. No
+3. With respect to the ecologically sensitive areas reported at Question 11 of Essential Indicators above, provide details of significant
+direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities. NilBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+4. If the entity has undertaken any specific initiatives or used innovative technology or solutions to improve resource efficiency, or
+reduce impact due to emissions / effluent discharge / waste generated, please provide details of the same as well as outcome of such initiatives, as per the following format:
+Sr.
+No.Initiative undertakenOutcome of the
+initiative
+1 During the year 36731 tons of steam purchased from waste heat recovery boiler which saved natural resource and energy 732 GJ
+2 Step towards increasing green energy purchase, generated in-house, and consumed solar power during the year 2024-25 10690 GJ
+3 By installing T emperature controller for process Cooling Tower fans saved energy 7328 GJ
+4 Power Saving by Installing Variable-frequency drive (VFD) at various equipment's across the organisation 1527 GJ
+5 By installing movement sensors across the facilities saved energy 36 GJ
+6 Fresh water saved by utilising MGF Back wash water to greenery development in and around the plant premises 156526 KL
+7 By using waste steam from the adjacent industry saved water around 36732 KL
+8 Installed an electrolytic water treatment system for cooling tower 107292 KL
+9 Installation of flow restrictors in water lines to washrooms 12052 KL
+5. Does the entity have a business continuity and disaster management plan? Give details in 100 words/ web link.
+Yes, a procedure EHS 041 Business Continuity Plan is in place. As per the procedure each function identifies the risks which
+will disrupt the business and their control measures. Functional Head leads this activity and engage the experienced person from the function to carry out this. Against each risks, response strategy and recovery plan are be prepared. Each function carry out the testing of business continuity plan once in a year and record the observations. All the recorded points are discussed in Management Review Committee. Each unit has prepared the disaster management plan in the form of On-site emergency management plan (OSEP).
+OSEP is designed based on quantitative risk assessment and HARA (Hazard Analysis and Risk Assessment). It covers all the scenarios such as explosion, fire, toxic gas release etc. OSEP organogram is prepared to execute if required. Roles and responsibilities are assigned to personnel. Adequate resources are maintained in the unit. Periodical mock drills are conducted to assess the gaps.
+6. Disclose any significant adverse impact to the environment, arising from the value chain of the entity. What mitigation or adaptation measures have been taken by the entity in this regard.
+No significant adverse impact to the environment, arising from the value chain.
+We ensure sustainability within the supply chain: The quality of our products is of utmost importance and suppliers are only on boarded after a series of stringent checks to warrant that they are aligned with the expectations of the company. We onboard our suppliers after taking into consideration the required quality, EHS, and sustainability criteria. Our critical tier 1 suppliers are further assessed based on vendor audits. During the year, around 86 vendors have been evaluated on sustainability criteria.
+We are committed to engaging with our suppliers to help them improve the social and environmental impact of the materials and services they offer. The supplier code of conduct (CoC) and sustainable supply chain questionnaire helps us assess and align our suppliers with core values as they sign up to foster a culture of honesty, accountability, and integrity. The CoC also helps us in integrating sustainability parameters into our supply chain. The CoC covers aspects such as labor rights, anti-bribery and corruption, health and safety, environment, ethics, data privacy, confidentiality, and information protection.
+7. Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts. Nil
+8. How many Green Credits have been generated or procured:
+a. By the listed entity
+b. By the top ten (in terms of value of purchases and sales,respectively) value chain partners"
+None in FY 2024-25
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+PRINCIPLE 7: Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is
+responsible and transparent
+Essential Indicators
+1. a. Number of affiliations with trade and industry chambers/ associations. 8
+b. List the top 10 trade and industry chambers/ associations (determined based on the total members of such body) the entity is
+a member of/ affiliated to.
+Sr.
+No.Name of the trade and industry chambers/ associationsReach of trade and industry chambers/
+associations (State/National)
+1 Confederation of Indian Industry National
+2 Pharmaceuticals Export Promotion Council of India National
+3 Bulk Drugs Manufacturers Association State
+4 JNPC Manufacturers Association State
+5 The Associated Chambers of Commerce & Industry of India National
+6 Indo American Chamber of Commerce, Hyderabad State
+7 Indian Drug Manufacturers Association National
+8 Federation of Indian Chambers of Commerce and Industry National
+4. Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the entity, based on
+adverse orders from regulatory authorities. NIL
+Name of authority Brief of the case Corrective action taken
+NA NA NA
+NA NA NA
+Leadership Indicators
+1. Details of public policy positions advocated by the entity: NIL
+Sr.
+No.Public Policy
+AdvocatedMethod resorted for
+such advocacyWhether information available
+in public domain (Yes/No)Frequency of review by Board (Annually/Half
+Yearly/Quarterly, others- please specify)Web link if available
+NIL NIL NIL NIL NIL
+PRINCIPLE 8: Businesses should promote inclusive growth and equitable development
+Essential Indicators1. Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial
+year. NIL
+Name and brief
+details of projectSIA Notification No. Date of notificationWhether conducted by independent
+external agency (Yes / No)Results communicated in
+public domain (Yes / No)Relevant Web link
+NA NA NA NA NA NA
+2. Provide information on project(s) for which ongoing Rehabilitation and Resettlement (R&R) is being undertaken by your entity, in the following format: NIL
+Sr.
+No.Name of Project for
+which R&R is ongoingState DistrictNo. of Project Affected
+Families (PAFs)% of PAFs covered
+by R&RAmounts paid to PAFs in
+the FY (In INR)
+NA NA NA NA NA NA
+3. Describe the mechanisms to receive and redress grievances of the community.
+Consent of the community is obtained in major or the activities taken up by company. In case of any grievances, company representatives from each plant are accessible to community. And also through Mail or written communication and once been addressed, communicate back on the same channel of communication.Business Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers:
+FY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Directly sourced from MSMEs/ small producers 11% 8%
+Directly from within India 67% 70%
+Note: The boundary for reporting of MSMEs/small producers is Indian suppliers and for the input materials sourced directly from within
+India is global suppliers. Accordingly, the figures for FY 2023-24 have been restated to be consistent year on year.
+5. Job creation in smaller towns - Disclose wages paid to persons employed (including employees or workers employed on a
+permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost
+LocationFY 25 (Current
+Financial Year)FY 24 (Previous
+Financial Year)
+Rural 93% 93%
+Semi-urban NIL NIL
+Urban NIL NIL
+Metropolitan 7% 7%
+Note: Numbers mentioned above are specific to India locations geography.
+Classification is based on the RBI Guidelines and Census 2011
+The Company re-assessed its location classification of its manufacturing units and offices. Accordingly, the figures for FY 2023-24 have
+been restated for consistent classification year on year.
+Leadership Indicators
+1. Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments (Reference:
+Question 1 of Essential Indicators above): NIL
+Details of negative social impact identified Corrective action taken
+NA NA
+2. Provide the following information on CSR projects undertaken by your entity in designated aspirational districts as identified by government bodies:
+S. No. State Aspirational District Amount spent (In K Crore)
+1. Andhra Pradesh Alluri Sitharama Raju 0.10
+3. (a) Do you have a preferential procurement policy where you give preference to purchase from suppliers comprising marginalised /vulnerable groups? (Yes/No) No
+(b) From which marginalised /vulnerable groups do you procure?
+(c) What percentage of total procurement (by value) does it constitute?
+4. Details of the benefits derived and shared from the intellectual properties owned or acquired by your entity (in the current financial year), based on traditional knowledge: NIL
+Sr. No.Intellectual Property based on
+traditional knowledgeOwned/ Acquired (Yes/No) Benefit shared (Yes / No) Basis of calculating benefit share
+NA NA NA NA
+5. Details of corrective actions taken or underway, based on any adverse order in intellectual property related disputes wherein usage of traditional knowledge is involved. NIL
+Name of authority Brief of the Case Corrective action taken
+NA NA NA
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+6. Details of beneficiaries of CSR Projects:
+Sr.
+No.CSR ProjectNo. of persons
+benefitted from
+CSR Projects% of beneficiaries
+from vulnerable
+and marginalised
+groups
+(i) Promoting health care, eradicating hunger & Water Plant
+Pure Little Hearts Foundation 86 100%
+Hrudaya Foundation 43 100%
+Bal Arogya Samvardhan 18 100%
+Financial assistance for CAR T-Cell Therapy 2 100%
+Critical Medical treatment 1 100%
+Water Plant Group of people
+Contribution for construction of community Kitchen Group of people
+(ii) Promoting Education
+Financial Support for Meritorious poor students 120 100%
+School Building at Moguluru 300 100%
+Support for ZP High School Kothur 450 100%
+School Building at Munnaluru 300 100%
+(iii) Promoting Heritage
+Financial support towards Traditional Music festivals Group of people
+Financial support for Tribal cultural festivals Group of people
+(iv) Ensuring environmental sustainability
+Animal Welfare -Daily care and maintenance of cattle feed and fodder Group of herd
+Garden Adoption at Tirumala Group of people
+Smart Andhra Pradesh Foundation for Flood relief Group of people
+(v) Promoting Sports
+Financial Support for National Weight lifting Athlets 25
+Financial Support for Golf Player 1
+Financial Support for Chess Player 1
+(vi) Rural Development projects
+Garbage Vehicle to Gorlivanipalem Gram Panchayat Group of people
+Construction of Roads & Toilet Blocks at Munnaluru & Moguluru Group of people
+Rural Development projects Group of people
+Laurus Skill Development Center Group of people
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in a responsible manner
+Essential Indicators
+1. Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+Consumer complaints will be received by mail and reply to them after due investigations.
+2. Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+Particulars As a percentage to total turnover
+Environmental and social parameters relevant to the product We comply with the applicable and relevant laws and regulations of
+the countries we operate in with respect to disclosure of information on environmental and social parameters relevant to the products.Safe and responsible usage
+Recycling and/or safe disposalBusiness Responsibility & Sustainability Reporting
+LAURUS LABS LIMITED
+3. Number of consumer complaints in respect of the following: NIL
+FY 25 (Current Financial Year) FY 24 (Previous Financial Year)
+Received during
+the yearPending resolution
+at end of yearRemarksReceived during
+the yearPending resolution
+at end of yearRemarks
+Data privacy NIL NIL NA NIL NIL NA
+Advertising NIL NIL NA NIL NIL NA
+Cyber-security NIL NIL NA NIL NIL NA
+Delivery of essential services NIL NIL NA NIL NIL NA
+Restrictive Trade Practices NIL NIL NA NIL NIL NA
+Unfair Trade Practices NIL NIL NA NIL NIL NA
+Other NIL NIL NA NIL NIL NA
+4. Details of instances of product recalls on account of safety issues:
+Number Reasons for recall
+Voluntary recalls Nil NA
+Forced recalls Nil NA
+5. Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available, provide a web-
+link of the policy.
+Yes
+https://www.lauruslabs.com/Investors/PDF/Policies/LaurusLabsLimitedPrivacy-policy.pdf
+6. Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential services; cyber
+security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action taken by regulatory authorities on safety of products / services.
+N/A
+7. Provide the following information relating to data breaches:
+a. Number of instances of data breaches - Nil
+b. Percentage of data breaches involving personally identifiable information of customers - Nil
+c. Impact, if any, of the data breaches - NA
+Leadership Indicators
+1. Channels / platforms where information on products and services of the entity can be accessed (provide web link, if available).
+https://www.lauruslabs.com/
+2. Steps taken to inform and educate consumers about safe and responsible usage of products and/or services.
+Proper labelling based on the regulatory requirements. - Yes
+3. Mechanisms in place to inform consumers of any risk of disruption/discontinuation of essential services. NIL
+4. Does the entity display product information on the product over and above what is mandated as per local laws? (Yes/No/Not
+Applicable) If yes, provide details in brief. Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / services of the entity, significant locations of operation of the entity or the entity as a whole? (Yes/No) No
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+To the Board of Directors
+of LAURUS LABS LIMITED
+1. We have undertaken to perform limited assurance engagement, for LAURUS LABS LIMITED (the "Company") vide our engagement letter dated March 21, 2025, in respect of the agreed Sustainability Information listed below (the "Identified Sustainability Information") for the year ended March 31, 2025 in accordance with the Criteria stated in paragraph 3 below. This Sustainability Information is included in the Company's Business Responsibility and Sustainability Report (the "BRSR", the "Report") included within the Integrated Annual Report (the "IAR") of the Company for the year ended March 31, 2025. This engagement was conducted by a multidisciplinary team including assurance practitioners, environmental engineers and specialists.
+2. Identified Sustainability Information
+Our scope of limited assurance consists of the Identified Sustainability Information listed in the Appendix I to our report. The reporting boundary of the Report is as disclosed in Question 13 of Section A: General Disclosure of the BRSR with exceptions disclosed by way of note under respective questions of the BRSR, where applicable.
+3. Criteria
+The Criteria used by the Company to prepare the Identified Sustainability Information is listed below:
+- Regulation 34(2)(f) of the Securities and Exchange Board
+of India (the "SEBI") (Listing Obligations and Disclosure Requirements), Regulations, 2015 as amended;
+- Business Responsibility and Sustainability Reporting Requirements for listed entities per Master Circular No. SEBI/HO/CFD/PoD2/CIR/P/0155 dated November 11, 2024 (the "SEBI Master Circular");
+- SEBI Press Release PR No.36/2024 dated December 18, 2024;
+- Industry Standards on Reporting of BRSR Core as per SEBI Circular SEBI/HO/CFD/CFD-PoD-1/P/CIR/2024/177 dated December 20, 2024; and
+- SEBI Circular SEBI/HO/CFD/CFD - PoD-1/P/CIR/2025/42 dated March 28, 2025.4. Management's Responsibility
+The Company's management is responsible for selecting or establishing suitable criteria for preparing the Sustainability Information including the reporting boundary of the Report, taking into account applicable laws and regulations, if any, related to reporting on the Sustainability Information, identification of key aspects, engagement with stakeholders, content, preparation and presentation of the Identified Assurance Report
+Sustainability Information in accordance with the Criteria. This responsibility includes design, implementation and maintenance of internal controls relevant to the preparation of the Report and the measurement of Identified Sustainability Information, which is free from material misstatement, whether due to fraud or error.
+5. Inherent limitations
+The absence of a significant body of established practice on which to draw to evaluate and measure non-financial information allows for different, but acceptable, measures and measurement techniques and can affect comparability between companies.
+6. Our Independence and Quality Control
+We have maintained our independence and confirm that we have met the requirements of the Code of Ethics issued by the Institute of Chartered Accountants of India (the "ICAI") and the SEBI Master Circular and its clarifications thereto and have the required competencies and experience to conduct this assurance engagement.
+The firm applies Standard on Quality Control (the "SQC") 1, "Quality Control for Firms that Perform Audits and Reviews of Historical Financial Information, and Other Assurance and Related Services Engagements", and accordingly maintains a comprehensive system of quality control including documented policies and procedures regarding compliance with ethical requirements, professional standards, and applicable legal and regulatory requirements.
+7. Our Responsibility
+Our responsibility is to express a limited assurance conclusion on the Identified Sustainability Information listed in Appendix I based on the procedures we have performed and evidence we have obtained.
+We conducted our engagement in accordance with the Standard on Sustainability Assurance Engagements (SSAE) 3000, "Assurance Engagements on Sustainability Information", and Standard on Assurance Engagements (SAE) 3410 Assurance Engagements on Greenhouse Gas Statements (together the "Standards"), both issued by the Sustainability Reporting Standards Board (the "SRSB") of the ICAI.
+These Standards require that we plan and perform our engagement to obtain limited assurance about whether the Identified Sustainability Information is free from material misstatement.
+As part of limited assurance engagement in accordance with the Standards, we exercise professional judgment and maintain professional skepticism throughout the engagement.INDEPENDENT PRACTITIONER'S LIMITED ASSURANCE REPORT ON IDENTIFIED SUSTAINABILITY
+INFORMATION OF LAURUS LABS LIMITED
+LAURUS LABS LIMITED
+8. Limited Assurance
+A limited assurance engagement involves assessing the
+suitability in the circumstances of the Company's use of the Criteria as the basis for the preparation of the Identified Sustainability Information as listed in Appendix I, assessing the risks of material misstatement of the Identified Sustainability Information whether due to fraud or error, responding to the assessed risks as necessary in the circumstances, and evaluating the overall presentation of the Identified Sustainability Information.
+A limited assurance engagement is substantially less in scope than a reasonable assurance engagement in relation to both the risk assessment procedures, including an understanding of internal control, and the procedures performed in response to the assessed risks.
+The procedures we performed were based on our professional judgment and included inquiries, observation of processes performed, inspection of documents and evaluating the appropriateness of reporting policies and agreeing with underlying records.
+Given the circumstances of the engagement, in performing the procedures listed above, we:
+- Obtained an understanding of the Identified
+Sustainability Information and related disclosures;
+- Obtained an understanding of the assessment criteria and their suitability for the evaluation and/or measurements of the Identified Sustainability Information;
+- Made inquiries of Company's management, including Environment Health and Safety team, finance team, compliance team, human resources team amongst others and those with the responsibility for preparation of the Report;
+- Obtained an understanding and performed an evaluation of the design of the key systems, processes and controls for recording, processing and reporting on the Identified Sustainability Information at the corporate office and at plants on a sample basis. This included evaluating the design of those controls relevant to the engagement and determining whether they have been implemented by performing procedures in addition to inquiry of the personnel responsible for the Identified Sustainability Information;
+- Based on the above understanding and the risks that the Identified Sustainability Information may be materially misstated, determined the nature, timing and extent of further procedures;
+- Reviewed the key assumptions, emission factors and methodologies used for calculation of Greenhouse Gas (the" GHG") emissions;- Reviewed the Company's process for collating the sustainability information through agreeing or reconciling the Identified Sustainability Information with the underlying records on a sample basis; and
+- Reviewed the consolidation for plants on a sample basis and corporate office under the reporting boundary for ensuring the completeness of data being reported.
+We believe that the evidence we have obtained is sufficient and appropriate to provide a basis for our limited assurance conclusion.
+9. Exclusions
+Our assurance scope excludes the following and therefore we do not express a conclusion on:
+- Aspects of the Report and the data/information
+(qualitative or quantitative) other than the Identified Sustainability Information; and
+- The statements that describe expression of opinion, belief, aspiration, expectation, aim, or future intentions provided by the Company.
+10. Limited Assurance Conclusion
+Based on the procedures we have performed and the evidence we have obtained, nothing has come to our attention that causes us to believe that the Identified Sustainability Information listed in Appendix I and presented for the year ended March 31, 2025 in the Report are not prepared, in all material respects, in accordance with the Criteria as stated in paragraph 3 above.
+11. Restriction on use
+Our Limited Assurance report has been prepared and addressed to the Board of Directors of the Company at the request of the Company solely, to assist the Company in reporting on Company's sustainability performance and activities. Accordingly, we accept no liability to anyone, other than the Company. Our Limited Assurance report should not be used for any other purpose or by any person other than the addressees of our report. We neither accept nor assume any duty of care or liability for any other purpose or to any other party to whom our report is shown or into whose hands it may come without our prior consent in writing.
+For Deloitte Haskins & Sells LLP
+Chartered Accountants
+(Firm's Registration No. 117366W / W-100018)
+Pratiq Shah
+Partner
+Place: Mumbai Membership No. 111850
+Date: May 15, 2025 UDIN: 25111850BNUHLO4940
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7
+Assurance Report
+APPENDIX I
+Identified Sustainability Information subject to Limited Assurance
+BRSR Core Indicators subject to Limited assurance
+Sr.
+NoReporting Standard ReferenceDescription of Indicator
+Section C: Principle [P] Wise Performance Disclosures - Essential Indicators [E]
+1 P-1 [E], Question 8 Number of days of accounts payables
+((Accounts payable *365) / Cost of goods/services procured)
+2 P-1 [E], Question 9 Open-ness of business:Details of concentration of purchases and sales with trading houses with dealers, and related parties along-with loans
+and advances & investments, with related parties.
+3 P-3 [E], Question 1(c) Spending on measures towards well-being of employees and workers (including permanent and other than permanent)
+4 P- 3 [E], Question 11 Details of safety related incidents:
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person hours worked) (employees and workers)Total recordable work-related injuries (employees and workers)- No. of fatalities (employees and workers)
+- High consequence work-related injury or ill-health (excluding fatalities) (employees and workers)
+5 P-5 [E], Question 3(b) Gross wages paid to females as % of total wages paid by the entity
+6 P-5 [E], Question 7 Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013- Total Complaints reported under Sexual Harassment on of Women at Workplace (Prevention, Prohibition and
+Redressal) Act, 2013 (POSH)
+- Complaints on POSH as a % of female employees/workers
+- Complaints on POSH upheld
+P-6 [E], Question 1Details of total energy consumption (in Joules or multiples) and energy intensity:
+- Total energy consumed from renewable sources
+- Total energy consumption from non-renewable sources
+8 Total energy consumed
+9 Energy intensity per rupee of turnover (Total energy consumed / Revenue from operations)Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total energy consumed / Revenue
+from operations adjusted for PPP)
+P-6 [E], Question 3Water withdrawal by source (in kLs)
+- Surface water, Groundwater, Third-Party Water, Seawater/desalinated water, Others
+- Total volume of water withdrawal (in kLs)
+- Total volume water consumption (in kLs)
+11 Water intensity per rupee of turnover (Total water consumption / Revenue from operations)Water intensity per rupee of turnover adjusted for PPP (Total water consumption / Revenue from operations adjusted for
+PPP)
+12 P-6 [E], Question 4 Water Discharge by destination and level of treatment (in kLs)
+P-6 [E], Question 7Greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity
+Total Scope 1 emissions (Break-up of the GHG into CO
+2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available
+14 Total Scope 2 emissions (Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, if available)
+15 - Total Scope 1 and Scope 2 emission intensity per rupee of turnover (Total Scope 1 and Scope 2 GHG emissions /
+Revenue from operations)
+- Total Scope 1 and Scope 2 emission intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total Scope 1 and Scope 2 GHG emissions / Revenue from operations adjusted for PPP)
+LAURUS LABS LIMITED
+Sr.
+NoReporting Standard ReferenceDescription of Indicator
+P-6 [E], Question 9Details related to waste management by the entity:
+Total waste generated: Plastic waste, E-waste, Construction demolition waste, Biomedical waste, Battery waste,
+Radioactive waste, Other Hazardous waste and Non-hazardous waste.
+17 - Waste intensity per rupee of turnover (Total waste generated / Revenue from operations)
+- Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) (Total waste generated / Revenue from operations adjusted for PPP)
+18 P-6 [E], Question 9 Each category of waste generated, total waste recovered through recycling, re-using or other recovery operations (in metric tonnes)
+19 P-6 [E], Question 9 Each category of waste generated; total waste disposed by nature of disposal method (in metric tonnes)
+20 P-8 [E], Question 4 Percentage of input material (inputs to total inputs by value) sourced from suppliers.
+- Directly sourced from MSMEs/ small producers
+- Directly from within India
+21 P-8 [E], Question 5 Job creation in smaller towns - Disclose wages paid to persons employed (including employees or workers employed on a permanent or non-permanent
+/ on contract basis) in the Rural, Semi-urban, Urban and Metropolitan locations, as a percentage of total wage cost.
+22 P-9 [E], Question 7 Information relating to data breaches:
+- Number of instances of data breaches
+- Percentage of data breaches involving personally identifiable information of customers
+- Impact, if any, of the data breaches
+Integrated Annual Report 2024-25
+Statutory Reports1
+3
+5
+7

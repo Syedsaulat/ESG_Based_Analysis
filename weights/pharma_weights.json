@@ -1,0 +1,39 @@
+{
+  "Environment": {
+    "scope1_tco2e": 0.10,
+    "scope2_tco2e": 0.05,
+    "scope3_tco2e": 0.05,
+    "ghg_total_tco2e": 0.05,
+    "ghg_intensity_tco2e_per_revenue": 0.05,
+    "energy_consumption_total_mwh": 0.05,
+    "energy_from_renewables_mwh": 0.05,
+    "renewable_energy_percent": 0.15,
+    "water_withdrawal_kl": 0.05,
+    "water_consumption_kl": 0.05,
+    "water_recycled_percent": 0.15,
+    "waste_hazardous_generated_tonnes": 0.05,
+    "waste_non_hazardous_generated_tonnes": 0.05
+  },
+  "Social": {
+    "total_employees": 0.05,
+    "female_percent": 0.15,
+    "women_in_board_percent": 0.10,
+    "women_in_senior_mgmt_percent": 0.10,
+    "attrition_rate_percent": 0.10,
+    "training_hours_per_employee": 0.15,
+    "csr_spend_million_inr": 0.20,
+    "csr_beneficiaries_count": 0.15
+  },
+  "Governance": {
+    "board_size_count": 0.05,
+    "independent_directors_percent": 0.20,
+    "women_directors_percent": 0.10,
+    "esg_board_committee_exists": 0.10,
+    "audit_committee_exists": 0.10,
+    "risk_committee_exists": 0.10,
+    "board_meetings_count": 0.10,
+    "whistleblower_complaints_resolved": 0.10,
+    "regulatory_penalties_count": 0.05,
+    "standards_and_certifications": 0.10
+  }
+}

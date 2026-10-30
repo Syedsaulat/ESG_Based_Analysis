@@ -1,0 +1,1989 @@
+ 
+ 
+Date: July 14, 2025  
+To  
+The Secretary      
+National Stock Exchange of India Limited   
+Exchange Plaza,  
+Bandra-Kurla Complex, Bandra (East)  
+Mumbai – 400051  
+  
+Trading Symbol:  DIVISLAB   To  
+The Secretary     
+BSE Limited    
+Phiroze Jeejeebhoy Towers,   
+Dalal Street  
+Mumbai – 400001  
+  
+Scrip Code: 532488  
+  
+Dear Sir/ Madam,    
+  
+Sub: Business Responsibility and Sustainability Report of the Company for the          
+Financial Year 2024-25  
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed copy of the Business Responsibility and Sustainability 
+Report (BRSR) for the Financial Year 2024-25. The BRSR also forms part of the Annual 
+Report of the Company for the financial year 2024-25. 
+  
+This is for your information and records.   
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Divi’s Laboratories Limited   
+  
+ 
+M. Satish Choudhury   
+Company Secretary & Compliance Officer   
+ 
+ 
+
+Business Responsibility & Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Company L24110TG1990PLC011854
+2. Name of the Listed Entity Divi’s Laboratories Limited
+3. Year of incorporation 1990
+4. Registered office address Divi Towers, 1-72/23(P)/DIVIS/303, Cyber Hills, Gachibowli,  
+Hyderabad – 500 032, Telangana, India
+5. Corporate address Divi Towers, 1-72/23(P)/DIVIS/303, Cyber Hills, Gachibowli,  
+Hyderabad – 500 032, Telangana, India
+6. E-mail mail@divislabs.com
+7. Telephone +91 40-66966300
+8. Website www.divislabs.com
+9. Financial year for which reporting is being done April 01, 2024, to March 31, 2025
+10. Name of the Stock Exchange(s) where shares are listed National Stock Exchange of India Limited (NSE), and
+BSE Limited (BSE)
+11. Paid-up Capital `53,09,37,160/-
+12. Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the BRSR 
+reportM. Satish Choudhury
+Company Secretary & Compliance Officer
+cs@divislabs.com
++91 40-66966352
+13. Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).The disclosure under this BRSR is on a standalone basis 
+unless otherwise stated.
+14. Name of assurance provider Bureau Veritas (India) Private Limited
+15. Type of assurance obtained Reasonable assurance for BRSR core indicators
+II. Products/services
+ 16. Details of business activities (accounting for 90% of the turnover):
+S. 
+NoDescription of main activity Description of business activity% of turnover of the 
+entity
+1. Manufacture of Active Pharmaceuticals 
+Ingredients, Intermediates and Nutraceuticals.Manufacture of Active Pharmaceuticals 
+Ingredients, Intermediates and Nutraceuticals.100%
+ 17. Products/Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. 
+NoProduct/ service NIC code% of total turnover 
+contributed
+1. Manufacture of Active Pharmaceuticals Ingredients, Intermediates and Nutraceuticals. 21009 100%
+III. Operations
+ 18. Number of locations where plants and/or operations/offices of the entity are situated:  
+Location Number of plants Number of offices Total
+National 4* 1 5
+International 0 2 2
+   *The number of plants include the Company’s 3 manufacturing facilities and a R&D center. The Company’s Unit 3 manufacturing facility 
+at Kakinada started its operations from January 01, 2025 and information related to the unit is included wherever required in the report 
+effective from January 01, 2025.
+1
+35th Annual Report  2024-25
+
+ 19. Markets served by the entity:
+  a. Number of locations
+Locations Number
+National (No. of states) 18
+International (No. of countries) 80
+  b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+   88%
+  c. A brief on types of customers
+   Our customers include various Pharmaceutical and Nutraceutical companies across the globe.
+IV. Employees
+	 20.	 Details	as	at	the	end	of	financial	year:
+	 	 a.	 Employees	and	workers	(including	differently	abled):
+S. 
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Employees
+1. Permanent (D) 10,485 8,903 84.91 1,582 15.09
+2. Other than permanent (E) 791 680 85.97 111 14.03
+3. Total employees (D + E) 11,276 9,583 84.99 1,693 15.01
+Workers
+4. Permanent (F) 57 57 100 0 0
+5. Other than permanent (G) 6,972 6,966 99.91 6 0.09
+6. Total workers (F + G) 7,029 7,023 99.91 6 0.09
+	 	 b.	 Differently	abled	employees	and	workers:
+S. 
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C/A)
+Differently abled employees
+1. Permanent (D) 17 15 88.24 2 11.76
+2. Other than permanent (E) 0 0 0 0 0
+3. Total differently abled employees (D + E) 17 15 88.24 2 11.76
+Differently abled workers
+4. Permanent (F) 1 1 100 0 0
+5. Other than permanent (G) 10 10 100 0 0
+6. Total differently abled workers (F + G) 11 11 100 0 0
+ 21. Participation/Inclusion/Representation of women:
+Total (A)No. and percentage of females
+No. (B) % (B / A)
+Board of Directors 10 2 20.00
+Key Management Personnel* 7 1 14.29
+  * Including 5 Executive Directors.
+2
+35th Annual Report  2024-25
+
+ 22. Turnover rate for permanent employees and workers:
+FY 2024-25 FY 2023-24 FY 2022-23
+Male Female Total Male Female Total Male Female Total
+Permanent employees 7.37% 13.28% 8.26% 8.11% 14.64% 9.05% 17.69% 23.70% 18.52%
+Permanent workers 1.74% 0 1.74% 0 0 0 1.72% 0 1.72%
+V. Holding, subsidiary and associate companies (including joint ventures)
+ 23.  (a) Names of holding / subsidiary / associate companies / joint ventures:
+S. 
+No.Name of the holding/ 
+subsidiary/ associate 
+companies/ joint ventures 
+(A)Indicate whether 
+holding/ subsidiary/ 
+associate/ joint venture% of shares held by 
+listed entityDoes the entity indicated at 
+column A, participate in the 
+business responsibility initiatives 
+of the listed entity? (Yes/No)
+1 Divis Laboratories (USA) Inc., 
+New Jersy, USA.Subsidiary 100% No
+2 Divi’s Laboratories Europe 
+AG, Basel, SwitzerlandSubsidiary 100% No
+VI. CSR details
+ 24. (i)	 Whether	CSR	is	applicable	as	per	Section	135	of	the	Companies	Act,	2013:	Yes
+	 	 (ii)	 Turnover	(in	 `	crores):	 `9,550
+	 	 (iii)	 Net	worth	(in	 `	crores):	 `14,895
+VII. Transparency and disclosures compliances
+ 25.  Complaints/grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from whom 
+complaint is receivedGrievance 
+redressal 
+mechanism in 
+place (Yes/No)
+(If Yes, then 
+provide web- link 
+for grievance 
+redress policy)FY 2024-25 FY 2023-24
+Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the year#RemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the year#Remarks
+Communities Yes*0 0 - 0 0 -
+Investors (other than 
+shareholders)NA - - -
+Shareholders Yes*79 0 23 0 -
+Employees and workers Yes*0 0 - 0 0 -
+Customers Yes*49 5 - 42 7 -
+Value chain partners Yes*0 0 - 0 0 -
+Other (please specify) - - - - - - -
+   * Various policies of the Company for redressing the grievances of its stakeholders are available at https://www.divislabs.com/investor-
+relations/ . In addition, there are internal policies placed on intranet of the Company.
+   # Pending complaints at the end of relevant period were/are being redressed as per the standard operating procedure and are/will be closed 
+in due course.
+3
+35th Annual Report  2024-25
+
+ 26. Overview of the entity’s material responsible business conduct issues:
+   Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk along-with its financial implications, as per the following format.
+S. 
+No.Material 
+issue 
+identifiedIndicate 
+whether 
+risk or 
+opportunity 
+(R/O)Rationale for 
+identifying the risk/ 
+opportunityIn case of risk, approach to adapt 
+or mitigateFinancial implications 
+of the risk opportunity 
+(Indicate positive or 
+negative implications)
+1 Occupational 
+health and 
+safetyR In pharmaceutical 
+manufacturing, 
+health and safety 
+management 
+systems must ensure 
+uninterrupted and 
+safe operations.Health and safety management 
+systems and procedures are in 
+place in line with the applicable laws 
+enacted in India like The Factories 
+Act, The Explosives Act, etc., as well 
+as applicable international standards 
+like ISO. These systems / procedures 
+are reviewed and audited periodically. 
+Processes are in place for incident 
+reviews leading to corrective and 
+preventive action.Occupational health 
+& safety incidents can 
+have negative financial 
+implications.
+2 Environment 
+managementR The Company’s 
+operations if not 
+managed properly 
+may result in risk to 
+environment.Environmental risks and impacts 
+are managed through established 
+environment management practices. 
+The practices include conducting 
+risk assessments, periodic review 
+mechanisms and continuous 
+strengthening practices and 
+mitigation plans, using reviews and 
+corrective and preventive actions. 
+We are certified for ISO 14001 
+Environment Management System.Environmental risks may 
+result in negative financial 
+implications.
+3 Water 
+managementR Water management 
+is crucial for 
+the Company’s 
+operations from 
+the perspective 
+of protection and 
+conservation of the 
+natural resource and 
+cost effectiveness.We are managing risks associated 
+with water management through 
+implementation and strengthening 
+of water recycle and reuse programs, 
+installation of RO plants to treat 
+water to reuse, water conservation 
+programs (rainwater harvesting, 
+collecting steam condensate, etc), 
+and by installation of desalination 
+plants to utilize seawater for selected 
+operations.Water management risks 
+may result in negative 
+financial implications 
+apart from scarcity of this 
+resource.
+4 Community 
+careO The Company 
+believes in 
+sustainable 
+development and 
+serves the vulnerable 
+population around 
+its manufacturing 
+operations through 
+its CSR activities.- Positive: The Company 
+helps the communities 
+with CSR activities in the 
+area of health, education, 
+drinking water, women 
+empowerment, green 
+initiatives, support to 
+differently abled, rural 
+development, Skill 
+development, etc. This 
+gives the Company a 
+positive response in the 
+communities it operates.
+4
+35th Annual Report  2024-25
+
+S. 
+No.Material 
+issue 
+identifiedIndicate 
+whether 
+risk or 
+opportunity 
+(R/O)Rationale for 
+identifying the risk/ 
+opportunityIn case of risk, approach to adapt 
+or mitigateFinancial implications 
+of the risk opportunity 
+(Indicate positive or 
+negative implications)
+5 Waste 
+managementR Manufacturing of 
+products requires 
+abundant quantities 
+of raw materials and 
+proper management 
+of waste generated.We are managing risks associated 
+with Waste management through 
+implementation and strengthening 
+of recycle and reuse programmes. 
+Effective recovery of solvents from 
+solvent recovery system and reuse 
+in the process. Implementation of 
+green chemistry in the process to 
+reduce the waste generation. All solid 
+waste generated are handled as per 
+the applicable regulations of Ministry 
+of Environment, Forest & Climate 
+Change of India and Pollution Control 
+Board’s (PCB) conditions.Waste management risks 
+may result in negative 
+financial implications.
+6 Climate 
+changeR Increased levels of 
+Green House Gas 
+emissions may pose 
+harmful effects to 
+environment, human 
+health and associated 
+risks.We are mitigating climate change 
+risks by reducing the dependency on 
+fossil fuel sources and focusing on 
+renewable sources for power and 
+heat energy.
+We have taken various initiatives to 
+reduce GHG emissions from our 
+operations. We have also committed 
+to SBTi for both near term and 
+net zero targets. In line with our 
+commitment, we are working 
+on developing targets. Our GHG 
+footprint is being verified by external 
+agency as per ISO 14064-1 on annual 
+basis.Climate change risks may 
+result in negative financial 
+implications
+5
+35th Annual Report  2024-25
+
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards adopting 
+the NGRBC Principles and Core Elements.
+Disclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+Policy and management processes
+1. a.  Whether your entity’s policy/
+policies cover each principle and 
+its core elements of the NGRBCs. 
+(Yes/No)Yes Yes Yes Yes Yes Yes NA Yes Yes
+ b.  Has the policy been approved by 
+the Board? (Yes/No)The Policies are approved by the Board or by the respective Executive Director as authorized 
+by the Board.
+ c.  Web Link of the Policies, if 
+available(Click on policy for web access if available on the Company website i.e. www.divislabs.com )
+P1 to P9 (excluding P7) - Code of Ethics and Business Conduct
+P1 - Whistle Blower Policy
+P2 - Supplier Code of Conduct , Sustainable procurement policy
+P3 to P5 - Labour and Human Rights Policy
+P4 & P8 - Corporate Social Responsibility Policy
+P6 – Environmental, Health and Safety Policy , Environmental Sustainability Policy
+P7 – NA
+P9 - Information Security Policies (available on our intranet)
+2.  Whether the entity has translated the 
+policy into procedures. (Yes / No)Yes NA Yes
+3.  Do the enlisted policies extend to your 
+value chain partners? (Yes/No)Yes Yes Yes Yes Yes Yes NA No Yes
+4.  Name of the national and international 
+codes/ certifications/labels/ standards 
+(e.g. Forest Stewardship Council, 
+Fairtrade, Rainforest Alliance, Trustea) 
+standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity and 
+mapped to each principle.ISO 
+45001,
+ISO 
+14001
+ISO 
+9001ISO 
+45001ISO 14001,
+ISO 45001
+ISO 14064,
+G.M.P 
+& G.L.P 
+certification- As per the 
+CSR Rules 
+prescribed 
+under the 
+Companies 
+Act, 2013
+5.  Specific commitments, goals and 
+targets set by the entity with defined 
+timelines, if any.The Company has set specific Sustainability targets, which lays down the key aspects of the 
+sustainability including timelines for the same and yearly EHS (Environment, Health and Safety) 
+targets as detailed below:
+Sustainability targets for 2030:
+Carbon footprint
+•  Reduce absolute based GHG (Scope-1 & 
+Scope-2) emissions by 5%.
+•  Reduce intensity based GHG (Scope-1 & 
+Scope-2) emissions by 25%.Water conservation
+•  Reduce ground water & surface water 
+intake by 30%.
+• Reduce water consumption by 25%.
+•  Reduce intensity-based water consumption 
+by 25%.
+Energy conservation
+•  Decrease intensity-based energy 
+consumption by 25%.
+•  Rely on renewable energy sources to the 
+extent possible, where applicable.Waste management
+•  Reduce intensity-based waste disposal by 
+25%.
+• Reduce plastic waste using for packing.
+EHS targets for 2024-25
+• No major fire, explosion, toxic gas leak; No fatality & reportable injury.
+• Lost time injury severity (LTIs) rate of not more than 0.3.
+• Minimum 16 EHS training hours per employee per year.
+We are committed to Science Based Targets initiative (SBTi) for both Near term and Net-Zero 
+targets. Inline to our commitment, we are working on developing targets.
+6
+35th Annual Report  2024-25
+
+Disclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+6.  Performance of the entity against 
+the specific commitments, goals and 
+targets along-with reasons in case the 
+same are not met.The performance against specific commitments, goals achieved during the year is as follows:
+Carbon footprint
+•  ~6,350 TCO2e emissions were reduced with 
+the initiatives taken during 2024-25.Water conservation
+•  ~92,130 KL of water was conserved with 
+the initiatives taken during 2024-25.
+Energy conservation
+•  ~34,870 GJ of energy was conserved with 
+the initiatives taken during 2024-25.Waste management
+•  ~ 35 MT of plastic waste was reduced.
+Achievement of EHS targets in FY 2024-25
+•  No major fire, explosion, toxic gas leak, fatality and reportable injuries have occurred during 
+2024-25.
+•  Lost time injury severity (LTIs) rate for FY 2024-25 is 0.03 that is well below the target of 0.3.
+• Average EHS training hours per employee for FY 2024-25 is ~21 Hr 30 Min.
+Governance, leadership and oversight
+7.  Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and achievements 
+(listed entity has flexibility regarding the placement of this disclosure):
+  At Divi’s, Sustainability is fundamental to our business operations. In line with our commitment, we have set sustainability targets for 
+2030 and signed the Science Based Targets initiative (SBTi) for both Near term and Net-Zero targets.
+  Dr. S. Devendra Rao, 
+ Whole-time Director (Manufacturing)
+8.  Details of the highest authority 
+responsible for implementation 
+and oversight of the Business 
+Responsibility policy (ies).Dr. S. Devendra Rao
+Whole-time Director (Manufacturing)
+DIN: 10481393
+Email: cs@divislabs.com ; Tel: +91 40-66966352
+9.  Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making on 
+sustainability related issues?  
+(Yes / No). If yes, provide details.Yes, the Risk Management and Sustainability Committee oversees the Environment, Social and 
+Governance related topics.
+10. Details of review of NGRBCs by the Company:
+ Subject for review Indicate whether review was undertaken by director / committee of the Board/ any 
+other Committee and frequency
+  Performance against above policies 
+and follow up actionThe Policies of the Company are reviewed periodically or on need basis by respective 
+Department heads / Executive Directors / Board Committees / Board of Directors, as 
+applicable.
+  Compliance with statutory 
+requirements of relevance to the 
+principles, and rectification of any non-
+compliancesThe Company is in compliance with all applicable laws.
+11.  Has the entity carried out independent 
+assessment/ evaluation of the working 
+of its policies by an external agency? 
+(Yes/No). If yes, provide name of the 
+agency.P1 P2 P3 P4 P5 P6 P7 P8 P9
+No Yes, 
+Bureau 
+Veritas 
+(India) 
+Private 
+LimitedYes,
+Bureau 
+Veritas 
+(India) 
+Private 
+LimitedNo No Yes, 
+Bureau 
+Veritas 
+(India) 
+Private 
+LimitedNA No No
+12.  If answer to question (1) above is “No” i.e. not all Principles are covered by a policy, reasons to be stated:
+  With respect to Principle 7, the answer is “Not Applicable” (NA) as the Company does not have a separate policy on public 
+advocacy.
+7
+35th Annual Report  2024-25
+
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURE
+This section is aimed at helping entities demonstrate their performance in integrating the Principles and Core Elements with key 
+processes and decisions. The information sought is categorised as “Essential” and “Leadership”. While the essential indicators 
+are expected to be disclosed by every entity that is mandated to file this report, the leadership indicators may be voluntarily 
+disclosed by entities which aspire to progress to a higher level in their quest to be socially, environmentally and ethically 
+responsible.
+PRINCIPLE 1:   Businesses should conduct and govern themselves with integrity, and in a manner that is 
+ethical, transparent and accountable
+Essential indicators
+1.		Percentage	coverage	by	training	and	awareness	programmes	on	any	of	the	Principles	during	the	financial	year:
+SegmentTotal number 
+of training and 
+awareness 
+programmes heldTopics/ principles covered under the training and 
+its impact% age of persons 
+in respective 
+category covered 
+by the awareness 
+programmes
+Board of Directors (BoD) 4 Familiarization programmes for the Board of Directors/ 
+KMPs of the Company are done periodically. The topics 
+of the programmes includes business and industry 
+updates, risk management, important regulatory 
+changes and compliances of various statutory 
+requirements, updating on various Codes/Policies of 
+the Company, environmental, social and governance 
+parameters, legal cases, etc.100%
+Key Managerial 
+Personnel (KMP)
+Employees other than 
+BoD and KMPs2,536 In addition to on-the-job training programmes, all the 
+employees including workers underwent trainings which 
+include topics covering principles P1-6, P8, P9.99.35%
+Workers
+2.		Details	of	fines	/	penalties	 /punishment/	 award/	compounding	 fees/	settlement	 amount	 paid	in	proceedings	 (by	
+the	entity	or	by	directors	 /	KMPs)	with	regulators/	 law	enforcement	 agencies/	 judicial	institutions,	 in	the	financial	
+year,	in	the	following	format.
+  (Note: The entity shall make disclosures on the basis of materiality as specified in Regulation 30 of SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 and as disclosed on the entity’s website):
+Monetary
+NGRBC PrincipleName of the regulatory/ 
+enforcement agencies/ 
+judicial institutionsAmount
+(In `)Brief of 
+the CaseHas an appeal 
+been preferred? 
+(Yes/No)
+Penalty/ Fine In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+the applicable disclosures are made to the stock exchanges. The same is available on the website of the stock 
+exchanges as well as on the Company’s website at https://www.divislabs.com/investor-relations/statutory-
+communication/Settlement
+Compounding fee
+Non-Monetary
+NGRBC PrincipleName of the regulatory/ 
+enforcement agencies/ 
+judicial institutionsBrief of the CaseHas an appeal 
+been preferred? 
+(Yes/No)
+Imprisonment
+NIL
+Punishment
+3.		Of	the	instances	 disclosed 	in	Question	 2	above,	details	of	the	Appeal/	 Revision	 preferred	 in	cases	where	monetary	
+or non-monetary action has been appealed.
+ Applicable disclosures are made at the web-link provided above.
+8
+35th Annual Report  2024-25
+
+4.		Does	the	entity	have	an	anti-corruption	 or	anti-bribery	 policy?	If	yes,	provide	 details	in	brief	and	if	available,	
+provide a web-link to the policy.
+  Yes. The Company has Anti-Corruption Policy, which not only covers the company but also extends to its stakeholders, viz., 
+suppliers, customers, employees, etc. Weblink: https://www.divislabs.com/wp-content/uploads/2022/02/Anti-Corruption-
+Policy.pdf .
+5.		Number	 of	Directors/KMPs/employees/workers	 against	 whom	disciplinary	 action	was	taken	by	any	law	
+enforcement	agency	for	the	charges	of	bribery/	corruption:
+FY 2024-25 FY 2023-24
+Directors 0 0
+KMPs 0 0
+Employees 0 0
+Workers 0 0
+6.	 Details	of	complaints	with 	regard	to	conflict	of	interest:
+FY 2024-25 FY 2023-24
+Number Remarks Number Remarks
+Number of complaints received in relation to issues of conflict of 
+interest of the directors0 - 0 -
+Number of complaints received in relation to issues of conflict of 
+interest of the KMPs0 - 0 -
+7.		Provide	 details	of	any	corrective	 action	taken	or	underway	 on	issues	related	to	fines	/	penalties	 /	action	taken	by	
+regulators/	law	enforcement	agencies/	judicial	institutions,	on	cases	of	corruption	and	conflicts	of	interest.
+ Not Applicable
+8.		Number	 of	days	of	accounts	 payables	 ((Accounts	 payable	 *365)	/	Cost	of	goods/services	 procured)	 in	the	following	
+format:
+FY 2024-25 FY 2023-24
+Number of days of accounts payables 84 92
+9. Open-ness of business
+  Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with loans 
+and advances & investments, with related parties, in the following format:
+Parameter Metrics FY 2024-25 FY 2023-24
+Concentration of 
+purchasesa.  Purchases from trading houses as % of total purchases 20.54% 21.91%
+b.  Number of trading houses where purchases are made from 731 728
+c.  Purchases from top 10 trading houses as % of total purchases 
+from trading houses46.86% 44.15%
+Concentration of 
+salesa.  Sales to dealers / distributors as % of total sales 4.39% 4.42%
+b.  Number of dealers / distributors to whom sales are made 2 2
+c.  Sales to top 10 dealers / distributors as % of total sales to 
+dealers / distributors100% 100%
+Share of RPTs in a.  Purchases (Purchases with related parties / Total Purchases) Nil Nil
+b.  Sales (Sales to related parties / Total Sales) 4.39% 4.42%
+c.  Loans & advances (Loans & advances given to related parties / 
+Total loans & advances)Nil Nil
+d.  Investments (Investments in related parties / Total 
+Investments made)10.12% 8.22%
+9
+35th Annual Report  2024-25
+
+Leadership indicators
+1.	 Awareness	programmes	conducted	for	value	chain	partners	on	any	of	the	Principles	during	the	financial	year:
+Total number of awareness 
+programmes heldTopics/ Principles covered 
+under the training% age of value chain partners covered (by value of business 
+done with such partners) under the awareness programmes
+Nil Nil Nil
+2.		Does	the	entity	have	processes	 in	place	to	avoid/	manage	 conflict	 of	interests	 involving	 members	 of	the	Board?	
+(Yes/No)	If	Yes,	provide	details	of	the	same.
+  Yes, the Company has in place “Code of Ethics and Business Conduct” and a ‘Policy on Related Party Transactions’, which 
+are applicable to the members of the Board of Directors. Transactions with Directors or any entity in which such Directors 
+are concerned or interested, are required to be approved by the Audit Committee, the Board of Directors and Members 
+of the Company, wherever applicable. In such cases, the interested Directors abstain themselves from the discussions at 
+the meeting. Related Party Transactions, if any, with the Company shall be at arm’s length basis only. The weblink of the 
+abovementioned policies are mentioned below:
+  Code of Ethics and Business Conduct: https://www.divislabs.com/wp-content/uploads/2022/02/Code-of-Ethics-and-
+Business-Conduct-of-Divis-Laboratories-Limited.pdf
+ Policy on Related Party Transactions: https://www.divislabs.com/wp-content/uploads/2025/04/RPT_Policy_V4.pdf
+PRINCIPLE 2:  Businesses should provide goods and services in a manner that is sustainable and safe
+Essential indicators
+1.		Percentage	 of	R&D	and	capital	 expenditure	 (capex)	 investments	 in	specific	 technologies	 to	improve	 the	
+environmental	 and	social	impacts	 of	product	 and	processes	 to	total	R&D	and	capex	investments	 made	by	the	
+entity,	respectively.	
+March 31, 2025 March 31, 2024 Details of improvements in environmental and social impacts
+R&D 100% 100% The expenditure towards R&D is aimed at improving environmental 
+and social impacts, such as reduction in emission and waste generation, 
+conservation of energy and water.
+Capex 4.68% 24.60% With the investments in specific technologies to improve the environmental 
+and social impacts of product and processes during the year, the Company 
+was able to reduce ~6,350 TCO2e emissions, conserve ~92,130 KL of water 
+and ~ 34,870 GJ of energy.
+2. a.	 Does	the	entity	have	procedures	in	place	for	sustainable	sourcing?	(Yes/No):  Yes
+ b.	 If	yes,	what	percentage	of	inputs	were	sourced	sustainably?
+   Yes, at Divi’s, we are striving for sustainability across all functions of our organization including sourcing and 
+procurement. Through our Sustainable Procurement policy, we are committed to ensuring the goods and services we 
+purchase are manufactured, delivered, used and disposed of in an environmentally and socially responsible manner. 
+It is also intended to encourage our suppliers to adopt practices that minimize their environmental impact and deliver 
+community benefits, in relation to their own operations, and throughout the supply chains in which they operate. 
+About 65.16% value of our purchases are sourced from vendors who embraced our sustainable procurement policy.
+3.		Describe	 the	processes	 in	place	to	safely	reclaim	 your	products	 for	reusing,	 recycling	 and	disposing	 at	the	end	of	
+life,	for	(a)	Plastics	(including	packaging)	(b)	E-waste	(c)	Hazardous	waste	and	(d)	other	waste.
+  We have a well-established waste management system in place to collect the waste generated from our operations. Certain 
+types of waste are being sent to authorised recyclers/ vendors for recovery and disposal. Plastic waste generated from 
+our operations is either recycled or reused. E-waste is sent to authorised recyclers. Majority of hazardous waste is sent for 
+co-processing at cement industries for value recovery.
+10
+35th Annual Report  2024-25
+
+4.		Whether	 Extended	 Producer	 Responsibility	 (EPR)	is	applicable	 to	the	entity’s	 activities	 (Yes	/	No).	If	yes,	whether	
+the	waste	collection	 plan	is	in	line	with	the	Extended	 Producer	 Responsibility	 (EPR)	plan	submitted	 to	Pollution	
+Control	Boards?	If	not,	provide	steps	taken	to	address	the	same.
+  Yes. Actions are implemented to minimize the amount of plastic waste generated and ensure that the waste is recycled/ 
+reused or disposed off to environment in friendly manner. For the purpose of implementation, we have engaged with 
+authorized recyclers. Our waste collection plan is in line with the EPR plan submitted to PCB.
+Leadership indicators
+1.		Has	the	entity	conducted	 Life	Cycle	Perspective	 /	Assessments	 (LCA)	for	any	of	its	products	 (for	manufacturing	
+industry)	or	for	its	services	(for	service	industry)?	If	yes,	provide	details	in	the	following	format?
+ We have conducted Life Cycle Assessments (LCA) internally for Climate Change category for the below products. 
+NIC CodeName of 
+Product
+/Service% of total 
+Turnover 
+contributedBoundary for which the 
+Life Cycle Perspective / 
+Assessment was conductedWhether conducted by 
+independent external 
+agency (Yes/No)Results communicated in 
+public domain (Yes/No)
+If yes, provide the web-link.
+210 Naproxen 
+Sodium5.20% Cradle to Gate No No
+210 Valsartan 6.37% Cradle to Gate No No
+2.		If	there	are	any	significant	 social	or	environmental	 concerns	 and/or	risks	arising	from	production	 or	disposal	
+of	your	products	 /	services,	 as	identified	 in	the	Life	Cycle	Perspective	 /	Assessments	 (LCA)	or	through	 any	other	
+means,	briefly	describe	the	same	along-with	action	taken	to	mitigate	the	same.
+  There were no significant social or environmental concerns identified in LCA.
+3.		Percentage	 of	recycled	 or	reused	input	material	 to	total	material	 (by	value)	used	in	production	 (for	manufacturing	
+industry)	or	providing	services	(for	service	industry).
+ We have established systems for recovering and recycle/reuse for most of our input materials.
+Indicate input materialRecycled or re-used input material to 
+total material
+FY 2024-25 FY 2023-24
+Toluene ~87.3% ~95%
+Nitrobenzene ~92.6% ~93%
+4.		Of	the	products	 and	packaging	 reclaimed	 at	end	of	life	of	products,	 amount	 (in	metric	tonnes)	 reused,	 recycled,	
+and	safely	disposed,	as	per	the	following	format:
+  Not applicable. Considering the line of business/operations, we have not reclaimed any products and packaging at the end 
+of life of products.
+5.	 Reclaimed	products	and	their	packaging	materials	(as	percentage	of	products	sold)	for	each	product	category.
+  Not applicable. We have not reclaimed any products and their packaging materials.
+11
+35th Annual Report  2024-25
+
+PRINCIPLE 3:   Businesses should respect and promote the well-being of all employees, including those 
+in their value chains
+Essential indicators
+1. a.	 Details	of	measures	for	the	well-being	of	employees:
+Category% of employees covered by
+Total (A)Health insuranceAccident 
+insuranceMaternity 
+benefitsPaternity 
+benefitsDay care 
+facilities
+Number 
+(B)% (B/A)Number 
+(C)% (C/A)Number 
+(D)% (D/A)Number 
+(E)% (E/A)Number 
+(F)% (F/A)
+Permanent employees
+Male 8,903 8,903 100 8,903 100 NA NA 0 0 8,903 100
+Female 1,582 1,582 100 1,582 100 1,582 100 NA NA 1,582 100
+Total 10,485 10,485 100 10,485 100 1,582 100 0 0 10,485 100
+Other than permanent employees
+Male 680 680 100 680 100 NA NA 0 0 680 100
+Female 111 111 100 111 100 111 100 NA NA 111 100
+Total 791 791 100 791 100 111 100 0 0 791 100
+  NA: Not Applicable
+	 b.	 Details	of	measures	for	the	well-being	of	workers:
+Category% of workers covered by
+Total (A)Health  
+insuranceAccident 
+insuranceMaternity 
+benefitsPaternity 
+benefitsDay care 
+facilities
+Number 
+(B)% (B/A)Number 
+(C)% (C/A)Number 
+(D)% (D/A)Number 
+(E)% (E/A)Number 
+(F)% (F/A)
+Permanent workers
+Male 57 57 100 57 100 NA NA 0 0 57 100
+Female 0 0 0 0 0 0 0 NA NA 0 0
+Total 57 57 100 57 100 0 0 0 0 57 100
+Other than permanent workers
+Male 6,966 6,966 100 6,966 100 NA NA 0 0 6,966 100
+Female 6 6 100 6 100 6 100 NA NA 6 100
+Total 6,972 6,972 100 6,972 100 6 100 0 0 6,972 100
+	 c.	 	Spending	 on	measures	 towards	 well-being	 of	employees	 and	workers	 (including	 permanent	 and	other	than	
+permanent)	in	the	following	format.
+FY 2024-25 FY 2023-24
+Cost incurred on well-being measures as a % of total revenue of the company 0.19% 0.13%
+2.	 Details	of	retirement	benefits,	for	current	financial	year	and	previous	financial	year.
+BenefitsFY 2024-25 FY 2023-24
+No. of 
+employees 
+covered as 
+a % of total 
+employeesNo. of 
+workers 
+covered as a 
+% of
+total workersDeducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)No. of 
+employees 
+covered as 
+a % of total 
+employeesNo. of 
+workers 
+covered as 
+a % of total 
+workersDeducted and 
+deposited 
+with the 
+authority 
+(Y/N/N.A.)
+PF 100 100 Y 100 100 Y
+Gratuity 100 100 N.A. 100 100 N.A.
+ESI 25.50 81.80 Y 34.90 81.90 Y
+Others -please specify - - - - - -
+12
+35th Annual Report  2024-25
+
+3.		Accessibility	 of	workplaces:	 Are	the	premises	 /	offices	of	the	entity	accessible	 to	differently	 abled	employees	 and	
+workers,	 as	per	the	requirements	 of	the	Rights	of	Persons	 with	Disabilities	 Act,	2016?	If	not,	whether	 any	steps	are	
+being taken by the entity in this regard.
+ Yes.
+4.		Does	the	entity	have	an	equal	opportunity	 policy	as	per	the	Rights	of	Persons	 with	Disabilities	 Act,	2016?	If	so,	
+provide a web-link to the policy.
+  Yes. The Company’s Code of Ethics and Business Conduct provides for equal opportunities for all its employees and all 
+qualified applicants for employment without regard to their race, caste, religion, colour, ancestry, marital status, gender, 
+age, nationality, ethnic origin or disability (to the extent it does not affect the performance of the expected functions), 
+subject to applicable laws and regulations. Weblink to access the Code of Ethics and Business Conduct is https://www.
+divislabs.com/wp-content/uploads/2022/02/Code-of-Ethics-and-Business-Conduct-of-Divis-Laboratories-Limited.pdf
+5.		 Return	to	work	and	retention	rates	of	permanent	employees	and	workers	that	took	parental	leave.
+GenderPermanent employees Permanent workers
+Return to work rate Retention rate Return to work rate Retention rate
+Male NA NA NA NA
+Female 98.31 % 82.57% NA NA
+Total 98.31% 82.57% NA NA
+6.  Is there a mechanism available to receive and redress grievances for the following categories of employees and 
+worker?	If	yes,	give	details	of	the	mechanism	in	brief.
+Yes/No (If Yes, then give details of the mechanism in brief)
+Permanent workers Yes Yes, a Grievance Redressal Mechanism has been constituted to hear and redress individual 
+grievances.
+The Company has formulated Whistle Blower Policy for redressing grievances related to 
+unethical behavior, actual or suspected fraud or a violation of a Company’s Code of Conduct. 
+As per this Policy, the concerns can be sent to the Vigilance Officer or directly to the 
+Chairman of the Audit Committee. The policy can be accessed at https://www.divislabs.com/
+wp-content/uploads/2020/06/WhistleBlowerPolicy.pdfOther than permanent 
+workersYes
+Permanent employees Yes
+Other than permanent 
+employeesYes
+7.	 Membership	of	employees	and	worker	in	association(s)	or	unions	recognised	by	the	listed	entity:
+CategoryFY 2024-25 FY 2023-24
+Total 
+employees 
+/ workers in 
+respective 
+category (A)No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or union (B)% (B/A)Total 
+employees 
+/ workers in 
+respective 
+category
+(C)No. of 
+employees 
+/ workers in 
+respective 
+category, who 
+are part of 
+association(s) 
+or union  (D)% (D/C)
+Total permanent employees 10,485 Nil 0 9,683 Nil 0
+Male 8,903 Nil 0 8,239 Nil 0
+Female 1,582 Nil 0 1,444 Nil 0
+Total permanent workers 57 Nil 0 58 Nil 0
+Male 57 Nil 0 58 Nil 0
+Female 0 Nil 0 0 Nil 0
+13
+35th Annual Report  2024-25
+
+8.	 Details	of	training	given	to	employees	and	workers:
+CategoryFY 2024-25 FY 2023-24
+Total (A)On health and 
+safety measuresOn skill 
+upgradation Total (D)On health and 
+safety measuresOn skill 
+upgradation
+No. (B) % (B/A) No. (C) % (C/A) No. (E) % (E/D) No. (F) % (F/D)
+Employees
+Male 9,583 9,583 100 9,583 100 9,397 9,397 100 9,397 100
+Female 1,693 1,693 100 1,693 100 1,710 1,710 100 1,710 100
+Total 11,276 11,276 100 11,276 100 11,107 11,107 100 11,107 100
+Workers
+Male 7,023 7,023 100 7,023 100 6,411 6,411 100 6,411 100
+Female 06 06 100 06 100 6 6 100 6 100
+Total 7,029 7,029 100 7,029 100 6,417 6,417 100 6,417 100
+  Note: Training programmes offered under health and safety and skill upgradation are mandatory for all employees and 
+workers. All of them attended the training programmes as per schedule.
+9.	 Details	of	performance	and	career	development	reviews	of	employees	and	worker:
+CategoryFY 2024-25 FY 2023-24
+Total (A) No. (B) % (B/A) Total (C) No. (D) % (D/C)
+Employees
+Male 8,903 8,903 100 8,239 8,239 100
+Female 1,582 1,582 100 1,444 1,444 100
+Total 10,485 10,485 100 9,683 9,683 100
+Workers
+Male 57 57 100 58 58 100
+Female 0 0 100 0 0 100
+Total 57 57 100 58 58 100
+10.	 Health	and 	safety	management	system:
+	 a.	 	Whether	 an	occupational	 health	and	safety	management	 system	has	been	implemented	 by	the	entity?	(Yes/	
+No).	If	yes,	the	coverage	of	such	system?
+   Yes, occupational health and safety management system has been implemented at all our manufacturing sites and 
+supporting centers.
+	 b.	 	What	are	the	processes	 used	to	identify	 work-related	 hazards	 and	assess	risks	on	a	routine	 and	non-routine	
+basis by the entity?
+   Divi’s has well established procedures in place to identify work-related hazards and assess risks on a routine and non-
+routine basis. Robust management of change is implemented in the organization, which ensures the compliance of 
+all the required assessments prior start-up of work. These assessments include various hazard & risk identification 
+strategies like Hazard Identification and Risk Assessment (HIRA), Hazard and Operability Study (HAZOP), Chemical 
+workplace risk assessments, Layers of Protection Analysis (LOPA), Process safety risk assessments, Process safety 
+testing for materials chaired by a team of experts with remarkable industrial experience. The identified hazards are 
+re-examined, to establish the level of risk reduction, after implementation of safeguards. It covers routine and non-
+routine works with an executed action plan that minimizes risks to acceptable levels.
+	 c.	 	Whether	 you	have	processes	 for	workers	 to	report	the	work-related	 hazards	 and	to	remove	 themselves	 from	
+such	risks.	(Y/N)
+   Yes. Procedures that enables the workers to report work related hazards are in place. As a regular practice, worker is 
+nominated as one of the team members for all Hazard Identifications and Risk Assessments where he can share his 
+expertise for effective risk reduction. In addition, a well-established procedure for employee /worker suggestions on 
+all work-related improvements is in place.
+14
+35th Annual Report  2024-25
+
+	 d.	 	Do	the	employees/	 worker	 of	the	entity	have	access	to	non-occupational	 medical	 and	healthcare	 services? 	
+(Yes/	No)
+  Yes. All Employees and worker of the entity have access to non-occupational medical and healthcare services.
+11.	 Details	of	safety	related	incidents,	in	the	following	format:	
+Safety incident/Number Category FY 2024-25 FY 2023-24
+Lost Time Injury Frequency Rate (LTIFR)  
+(per one million-person hours worked)Employees 0.12 0.18
+Workers 0.73 0.66
+Total recordable work-related injuries Employees 0 0
+Workers 0 0
+No. of fatalities Employees 0 0
+Workers 0 0
+High consequence work-related injury or ill-health  
+(excluding fatalities)Employees 0 0
+Workers 0 0
+ Note: LTIFR is calculated considering the first aid cases also.
+12. Describe the measures taken by the entity to ensure a safe and healthy workplace.
+  Divi’s established a strong and self-sustaining culture of health and safety in the organisation. This is monitored and 
+implemented through well-established ISO 45001 certified management system to oversee all the health and safety 
+activities that are required to ensure a safe and healthy workplace according to the Plan-Do-Check-Act (PDCA) cycle. Divi’s 
+has Committees (Safety, Health) in place at different levels in the organization, to guide employees on EHS aspects and to 
+monitor the implementation of health and safety practices. As part of our commitment to consciously promote safe and 
+healthy workplace practices, we encourage our employees, supervisors and managers to take direct ownership of their 
+safety, and the safety of their colleagues.
+13.	 Number	of	complaints	on 	the	following	made	by	employees	and	workers:
+FY 2024-25 FY 2023-24
+Filed during 
+the yearPending resolution 
+at the end of yearRemarksFiled during 
+the yearPending resolution 
+at the end of yearRemarks
+Working conditions Nil Nil - Nil Nil -
+Health & safety Nil Nil - Nil Nil -
+14.	 Assessments	for	the	year:
+% of your plants and offices that were assessed  
+(by entity or statutory authorities or third parties)
+Health and safety practices 100%
+Working conditions 100%
+15.		Provide	 details	of	any	corrective	 action	taken	or	underway	 to	address	 safety-related	 incidents	 (if	any)	and	on	
+significant	risks	/	concerns	arising	from	assessments	of	health	&	safety	practices	and	working	conditions.
+  There were no safety-related incidents during the year and no significant corrective actions were required. As part of 
+improving the safe working environment, the hazards associated with routine and non-routine activities were identified 
+and effective control measures are in place.
+15
+35th Annual Report  2024-25
+
+Leadership indicators
+1.		Does	the	entity	extend	any	life	insurance	 or	any	compensatory	 package	 in	the	event	of	death	of	(A)	Employees	
+(Y/N)	(B)	Workers	(Y/N).
+ (A)	 Employees:  Yes
+	 (B)	 Workers:  Yes
+2.  Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited 
+by the value chain partners.
+  The Company periodically communicates with the value chain partners and peruses compliances. This activity is also 
+reviewed by internal auditor / consultants. The Company expects its value chain partners to uphold business responsibility 
+principles and values of transparency and accountability.
+3.		Provide	 the	number	 of	employees	 /	workers	 having	suffered	 high	consequence	 work-	related	 injury	/	ill-health	
+/	fatalities	 (as	reported	 in	Q11	of	Essential	 Indicators	 above),	 who	have	been/are	 rehabilitated	 and	placed	in	
+suitable	employment	or	whose	family	members	have	been	placed	in	suitable	employment:
+Total no. of affected employees / 
+workersNo. of employees/workers that are 
+rehabilitated and placed in suitable 
+employment or whose family members 
+have been placed in suitable employment
+FY 2024-25 FY 2023-24 FY 2024-25 FY 2023-24
+Employees Nil Nil NA NA
+Workers Nil Nil NA NA
+4.  Does the entity provide transition assistance programs to facilitate continued employability and the management 
+of	career	endings	resulting	from	retirement	or	termination	of	employment?	(Yes/	No)
+ Yes
+5.	 Details	on	 assessment	of	 value	chain	partners:
+% of value chain partners (by value of business done with such partners)  
+that were assessed
+Health and safety practices Assessment of value chain partners has commenced and ~65.16 % of our supply chain 
+partners by value have responded to participate in our assessment. Working Conditions
+6.		Provide	 details	of	any	corrective	 actions	 taken	or	underway	 to	address	 significant	 risks	/	concerns	 arising	from	
+assessments of health and safety practices and working conditions of value chain partners.
+  During the reporting period, no corrective action plan was necessitated.
+  If any such risks/concerns are noticed, the value chain partner will be asked to comply with requisite measures in a 
+timebound manner. If not complied within the given time, procurement will be deferred till the value chain partners 
+improve the safety practices and working conditions to address the risk/concern.
+PRINCIPLE 4:  Businesses should respect the interests of and be responsive to all its stakeholders
+Essential indicators
+1. Describe the processes for identifying key stakeholder groups of the entity.
+  We recognize key stakeholder as an individual or group of individuals or institutions that impact our business or are 
+impacted by our business. Our key stakeholders include employees, customers, investors, suppliers, the community and 
+government authorities.
+16
+35th Annual Report  2024-25
+
+2.		List	stakeholder	 groups	identified	 as	key	for	your	entity	and	the	frequency	 of	engagement	 with	each	stakeholder	
+group.
+Stakeholder 
+groupWhether 
+identified as 
+vulnerable & 
+marginalized 
+group (yes/No)Channels of communication 
+(Email, SMS, newspaper, 
+pamphlets, advertisement, 
+community meetings, 
+notice board, website, 
+OTHERS)Frequency of 
+engagement 
+(Annually/ half 
+yearly/ quarterly/ 
+others – please 
+specify)Purpose and scope of engagement 
+including key topics and concerns 
+raised during such engagement
+Employees No Emails, notice boards, website, 
+management interactionsContinuous and as 
+per requirementFor employee wellbeing, to provide a 
+safe and inclusive workplace, provide 
+required infrastructure and training 
+for professional and personal growth. 
+Also to redress grievances and work 
+on feedbacks and consultation.
+Customers No Emails, brochures, website and 
+meetings (physical and virtual).Based on business 
+needsTo keep the customers informed 
+about our products and services and 
+to understand the business needs.
+Value chain partners No Emails, website and meetings 
+(physical and virtual).Based on business 
+needsTo ensure timely supply of goods and 
+services in order to maintain business 
+continuity sustainably.
+Shareholders No Notices, advertisements, 
+email, annual reports, stock 
+exchange intimations, earnings 
+conference calls and through 
+updates on Company’s website.Quarterly/half-
+yearly/annualDisclosure of financial information and 
+business updates beside applicable 
+statutory disclosures.
+Community Yes CSR initiatives, In-person 
+MeetingsNeed basis With a commitment to make 
+meaningful change a reality, we 
+continue to undertake varied 
+initiatives aimed at improving lives of 
+vulnerable/ Marginalized groups in the 
+community.
+Government/
+Government 
+agenciesNo Various submissions and 
+disclosures, meetings, emails, 
+etcAs per statutory 
+requirement and 
+need basedTo ensure and report various 
+compliances to discharge statutory 
+responsibilities and to keep the policy 
+makers informed about industry 
+requirements.
+Leadership Indicators
+1.		Provide	 the	processes	 for	consultation	 between	 stakeholders	 and	the	Board	on	economic,	 environmental,	 and	
+social	topics	or	if	consultation	is	delegated,	how	is	feedback	from	such	consultations	provided	to	the	Board.
+  Consultation with relevant stakeholders on the economic, environmental, and social topics is done by the respective 
+functional heads and the feedback is shared with the Management / Committee / Board, as required.
+2.		Whether	 stakeholder	 consultation	 is	used	to	support	 the	identification	 and	management	 of	environmental,	 and	
+social	topics	(Yes	/	No).	If	so,	provide	 details	of	instances	 as	to	how	the	inputs	received	 from	stakeholders	 on	these	
+topics were incorporated into policies and activities of the entity.
+ Yes. For instance, CSR activities are identified, prioritized, and implemented in consultation with relevant stakeholders.
+3.		Provide	 details	of	instances	 of	engagement	 with,	and	actions	 taken	to,	address	 the	concerns	 of	vulnerable/	
+marginalized	stakeholder	groups.
+  The departmental heads are empowered to engage and address the concerns of vulnerable/ marginalized stakeholder 
+groups as needed.
+17
+35th Annual Report  2024-25
+
+  Our CSR initiatives are implemented with an objective to reach out to the vulnerable and marginalized stakeholder groups. 
+Based on the engagement with stakeholder groups, needs are identified, and efforts are put in to address the concerns.
+ Some of the areas in which the organization is working are:
+ •  Promoting Education by strengthening infrastructure through science labs, digital class rooms, sports facilities, 
+libraries and an initiative to eradicate malnutrition by providing Horlicks sachets to all the schools surrounding the 
+manufacturing facilities.
+ •  Providing pure drinking water to people residing in the surrounding communities through which approx. 3,20,000 
+people are benefitted.
+ •  Empowering women by providing required support by encouraging them to get educated to earning a livelihood.
+ •  Plantation around the company’s manufacturing facilities and organizing clean and green programme.
+ •  To empower the youth with right skills for their future employment and self-employment needs livelihood training 
+programs like Tailoring, Beautician course, Hospitality, basic computer skills etc. in Divi’s Skill Development Centre.
+ •  Other key initiatives include, animal welfare, preventive healthcare, Swachh Bharat, rural development, support to 
+differently abled, etc.
+PRINCIPLE 5:  Businesses should respect and promote human rights
+Essential indicators
+1.		Employees	 and	workers	 who	have	been	provided	 training	 on	human	rights	issues	and	policy(ies)	 of	the	entity,	in	
+the	following	format:
+CategoryFY 2024-25  FY 2023-24
+Total (A)No. of employees / 
+workers covered (B)% (B / A) Total (C)No. of employees / 
+workers covered (D)% (D/C)
+Employees
+Permanent 10,485 10,485 100 9,683 9,683 100
+Other than permanent 791 791 100 1,424 1,424 100
+Total employees 11,276 11,276 100 11,107 11,107 100
+Workers
+Permanent 57 57 100 58 58 100
+Other than permanent 6,972 6,972 100 6,359 6,359 100
+Total workers 7,029 7,029 100 6,417 6,417 100
+2.	 Details	of	minimum	wages	paid	to	employees	and	workers,	in	the	following	format:
+CategoryFY 2024-25 FY 2023-24
+Total (A)Equal to  
+minimum WageMore than 
+minimum Wage Total (D)Equal to  
+minimum WageMore than 
+minimum Wage
+No. (B) % (B/A) No. (C) % (C/A) No. (E) % (E/D) No. (F) % (F/D)
+Employees
+Permanent 10,485 0 0 10,485 100 9,683 0 0 9,683 100
+Male 8,903 0 0 8,903 100 8,239 0 0 8,239 100
+Female 1,582 0 0 1,582 100 1,444 0 0 1,444 100
+Other than 
+permanent791 0 0 791 100 1,424 0 0 1,424 100
+Male 680 0 0 680 100 1,158 0 0 1,158 100
+Female 111 0 0 111 100 266 0 0 266 100
+18
+35th Annual Report  2024-25
+
+CategoryFY 2024-25 FY 2023-24
+Total (A)Equal to  
+minimum WageMore than 
+minimum Wage Total (D)Equal to  
+minimum WageMore than 
+minimum Wage
+No. (B) % (B/A) No. (C) % (C/A) No. (E) % (E/D) No. (F) % (F/D)
+Workers
+Permanent 57 0 0 57 100 58 0 0 58 100
+Male 57 0 0 57 100 58 0 0 58 100
+Female 0 0 0 0 100 0 0 0 0 100
+Other than 
+permanent6,972 0 0 6,972 100 6,359 0 0 6,359 100
+Male 6,966 0 0 6,966 100 6,353 0 0 6,353 100
+Female 6 0 0 6 100 6 0 0 6 100
+3.	 Details	of	remuneration/salary/wages:
+	 a.	 Median	remuneration	/	wages:
+Male Female
+NumberMedian remuneration/ 
+salary/ wages of respective 
+category (In ` lakhs)NumberMedian remuneration/ 
+salary/ wages of respective 
+category (In ` lakhs)
+Executive Directors 4 3,797.50 1 3,070.00
+Independent Directors* 4 31.50 1 27.00
+Key Managerial Personnel#2 219.93 0 0
+Employees other than BoD and KMP 8,897 5.30 1,581 3.97
+Workers 57 10.10 0 NA
+   Note: *Independent directors are paid by way of sitting fees and annual remuneration equal to male and female categories.
+  #Other than Executive Directors.
+	 b.	 Gross	wages	paid	to	 females	as	%	of	total	wages	paid	by	the	entity,	in	the	following	format:
+FY 2024-25 FY 2023-24
+Gross wages paid to females as % of total wages 9.30% 8.90%
+4.		Do	you	have	a	focal	point	(individual/	 committee)	 responsible	 for	addressing	 human	 rights	impacts	 or	issues	
+caused	or	contributed	to	by	the	business?	(Yes/No)
+ Yes
+5. Describe the internal mechanisms in place to redress grievances related to human rights issues.
+  For employees, a grievance redressal committee is constituted for the resolution of disputes arising out of individual 
+grievances. The committee has equal representation from management and workers. Individual workers can raise 
+grievances to the committee. The grievance redressal committee would enquire and resolve the grievance within defined 
+time limits.
+  Also, the Company has a Whistle Blower Policy with defined procedures to report instances of unethical behavior, actual or 
+suspected fraud, or violation of the Code of Ethics and Business Conduct to the Vigilance Officer / Chairman of the Audit 
+Committee. The Policy is available on the Company’s website.
+19
+35th Annual Report  2024-25
+
+6.	 Number	of	complaints	on 	the	following	made	by	employees	and	workers:
+FY 2024-25  FY 2023-24
+Filed during 
+the yearPending resolution 
+at the end of yearRemarksFiled during 
+the yearPending resolution 
+at the end of yearRemarks
+Sexual harassment 0 0 - 0 0 -
+Discrimination at 
+workplace0 0 - 0 0 -
+Child labour 0 0 - 0 0 -
+Forced Labour/
+Involuntary Labour0 0 - 0 0 -
+Wages 0 0 - 0 0 -
+Other human rights 
+related            issues0 0 - 0 0 -
+7.		Complaints	 filed	under	the	Sexual	Harassment	 of	Women	 at	Workplace	 (Prevention,	 Prohibition	 and	Redressal)	
+Act,	2013,	in	the	following	format:
+FY 2024-25 FY 2023-24
+Total Complaints reported under Sexual Harassment on of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 (POSH)0 0
+Complaints on POSH as a % of female employees / workers 0 0
+Complaints on POSH upheld 0 0
+8.	 Mechanisms	to	prevent	adverse	consequences	to	the	complainant	in	discrimination	and	harassment	cases.
+  A mechanism is in place to handle the complaints related to discrimination and harassment which also includes prevention 
+of adverse consequences to the complainant. Any retaliation or threats against those who make harassment complaints 
+or assist in the investigation shall be subject to disciplinary measures.
+  Also, the Company has Whistle Blower Policy with a set mechanism to file complaints, which will be appropriately dealt with 
+by the Chairman of the Audit Committee.
+9.	 Do	 human	rights	requirements	form	part	of	your	business	agreements	and	contracts?	(Yes/No)
+ Yes
+10.	 Assessments	for	the	year:
+Category% of your plants and offices that were assessed
+(by entity or statutory authorities or third parties)
+Child labour 100%
+Forced/involuntary labour 100%
+Sexual harassment 100%
+Discrimination at workplace 100%
+Wages 100%
+Others – please specify -
+11.		Provide	 details	of	any	corrective	 actions	taken	or	underway	 to	address	 significant	 risks	/	concerns	 arising	from	the	
+assessments at Question 9 above.
+ Not applicable
+20
+35th Annual Report  2024-25
+
+Leadership indicators
+1.		Details	of	a	business	 process	 being	modified	 /	introduced	 as	a	result	of	addressing	 human	 rights	grievances/
+complaints.
+ Not applicable
+2.	 Details	of	the	scope	and	coverage	of	any	Human	rights 	due-diligence	conducted.
+ The Company in the reporting period did not undertake any Human Rights due diligence.
+3.		Is	the	premise/office	 of	the	entity	accessible	 to	differently	 abled	visitors,	 as	per	the	requirements	 of	the	Rights	of	
+Persons	with	Disabilities	Act,	2016?
+ Yes.
+4.	 Details	on	 assessment	of	 value	chain	partners:
+% of your plants and offices that were assessed
+ (by entity or statutory authorities or third parties)
+Sexual harassment
+Assessment of value chain partners has commenced and ~65.16%  
+of our supply chain partners by value have responded to 
+participate in our assessment.Discrimination at workplace
+Child labour
+Forced labour/Involuntary labour
+Wages
+Others – please specify
+5.		Provide	 details	of	any	corrective	 actions	taken	or	underway	 to	address	 significant	 risks	/	concerns	 arising	from	the	
+assessments at Question 4 above.
+ Not applicable.
+PRINCIPLE 6:  Businesses should respect and make efforts to protect and restore the environment:
+Essential indicators
+1.	 Details	of	total	energy	consumption	(in	Joules	or	multiples)	and	energy	intensity,	in	the	following	format:	
+Parameter FY 2024-25 FY 2023-24
+From renewable sources
+Total electricity consumption (A) 23,267 GJ 7,441 GJ
+Total fuel consumption (B) 0 0
+Energy consumption through other sources (C) 0 0
+Total energy consumed from renewable sources (A+B+C) 23,267 GJ 7,441 GJ
+From non-renewable sources
+Total electricity consumption (D) 17,48,555 GJ  16,31,524 GJ
+Total fuel consumption (E) 31,88,224 GJ  34,49,936 GJ
+Energy consumption through other sources (F) 2,081 GJ 2,397 GJ
+Total energy consumed from non-renewable sources (D+E+F) 49,38,860 GJ 50,83,857 GJ
+Total energy consumed (A+B+C+D+E+F) 49,62,127 GJ 50,91,298 GJ
+Energy intensity per rupee of turnover
+(Total energy consumed / Revenue from operations)0.0000539 0.0000664
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total energy consumed / Revenue from operations adjusted for PPP)#0.0011147 0.0013572
+Energy intensity in terms of physical output 78.32 GJ/MT 77.58 GJ/MT
+  # The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published by the IMF- for India. (Ref: https://
+www.imf.org/external/datamapper/PPPEX@WEO/OEMDC/IND )
+  Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+ Yes, Bureau Veritas (India) Private Limited.
+21
+35th Annual Report  2024-25
+
+2.		Does	the	entity	have	any	sites	/	facilities	 identified	 as	designated	 consumers	 (DCs)	under	the	Performance,	
+Achieve	 and	Trade	(PAT)	Scheme	 of	the	Government	 of	India?	(Y/N)	If	yes,	disclose	 whether	 targets	set	under	the	
+PAT	scheme	 have	been	achieved.	 In	case	targets	have	not	been	achieved,	 provide	 the	remedial	 action	taken,	if	
+any.
+ No.
+3.	 Provide	details	of	the	following	disclosures	related	to	water,	in	the	following	format:
+Parameter FY 2024-25 FY 2023-24
+Water withdrawal by source (in kiloliters)
+(i) Surface water 9,55,439  10,97,058
+(ii) Groundwater 8,92,831 7,65,261
+(iii) Third party water 27,470 28,299
+(iv) Seawater / desalinated water 9,19,563 9,18,955
+(v) Others 0 0
+Total volume of water withdrawal (in kiloliters) (i + ii + iii + iv + v) 27,95,303 28,09,573
+Total volume of water consumption (in kiloliters) 34,83,162 35,50,556
+Water intensity per rupee of turnover
+(Total water consumption / Revenue from operations)0.0000379 0.0000463
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption / Revenue from operations adjusted for PPP) #0.0007824 0.0009465
+Water intensity in terms of physical output 54.98 Kl/MT 54.10 Kl/MT
+  # The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published by the IMF- for India. (Ref: https://
+www.imf.org/external/datamapper/PPPEX@WEO/OEMDC/IND )
+  Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+ Yes, Bureau Veritas (India) Private Limited.
+4.	 Provide	the	following	details	related	to	water	discharged:
+Parameter FY 2024-25  FY 2023-24
+Water discharge by destination and level of treatment (in kiloliters)
+(i) To Surface water 0 0
+ - No treatment 0 0
+ - With treatment – please specify level of treatment 0 0
+(ii) To Groundwater 0 0
+ - No treatment 0 0
+ - With treatment – please specify level of treatment 0 0
+(iii) To Seawater 4,08,910 4,24,705
+ - No treatment 0 0
+ - With treatment – Secondary treatment 4,08,910 4,24,705
+(iv) Sent to third-parties 1,608 120
+ - No treatment - Sent to common effluent treatment plant (CETP) 1,608 120
+ - With treatment – please specify level of treatment 0 0
+(v) Others 4,297 4,447
+ - No treatment 0 0
+ - With treatment – Primary Treatment 4,297 4,447
+Total water discharged (in kiloliters) 4,14,815 4,29,272
+  Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+ Yes, Bureau Veritas (India) Private Limited.
+22
+35th Annual Report  2024-25
+
+5.		Has	the	entity	implemented	 a	mechanism	 for	Zero	Liquid	Discharge?	 If	yes,	provide	 details	of	its	coverage	 and	
+implementation.
+  Yes, Divi’s Laboratories Limited has installed Zero Liquid Discharge (ZLD) for effluent treatment at Unit-I operating in 
+Telangana state. All kind of effluents are managed under ZLD system installed with various kinds of advance technologies 
+and adequate standby systems. The RO permeates collected from final treatment of effluents are re-used / recycled within 
+the industry. The domestic wastewater is treated in STP and the treated water is re-used for toilet flushing and gardening. 
+Complete ETP of ZLD system is monitored through online monitoring system. The real time data of online monitoring 
+system is connected to official websites of PCB.
+6.	 Please	provide	details	of	 air	emissions	(other	than	GHG 	emissions)	by	the	entity,	in	the	following	format:	
+Parameter Please specify unit FY 2024-25 FY 2023-24
+NOx#Tons 79.09 92.88
+SOx#Tons 60.75 71.16
+Particulate matter (PM)#mg/m3 (average) 32.12 36.44
+Persistent organic pollutants (POP) - - -
+Volatile organic compounds (VOC) - - -
+Hazardous air pollutants (HAP) - - -
+Others – please specify - - -
+ #NOx, SOx and PM air emission details are from the boiler stacks
+  Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+ Yes, stack emission analysis has been carried out by SV Enviro Labs and Consultants.
+7.		Provide	 details	of	greenhouse	 gas	emissions	 (Scope	1	and	Scope	2	emissions)	 &	its	intensity,	 in	the	following	
+format:
+Parameter Unit FY 2024-25 FY 2023-24
+Total Scope 1 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, 
+if available)Metric tonnes of CO2 
+equivalent3,39,941 3,63,246
+Total Scope 2 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, 
+if available)Metric tonnes of CO2
+equivalent3,57,810  3,25,972
+Total Scope 1 and Scope 2 emissions per rupee of turnover
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations)MT CO2e/ Rupees 0.0000076 0.0000090
+Total Scope 1 and Scope 2 emission intensity per rupee 
+of turnover adjusted for Purchasing Power Parity (PPP) #
+(Total Scope 1 and Scope 2 GHG emissions / Revenue from 
+operations adjusted for PPP)MT CO2e/ per rupee 
+adjusted for PPP0.0001567 0.0001837
+Total Scope 1 and Scope 2 emission intensity in terms of 
+physical outputMT CO2e/MT 11.01 10.50
+  # The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published by the IMF- for India. (Ref: https://
+www.imf.org/external/datamapper/PPPEX@WEO/OEMDC/IND .)
+  Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+ Yes, Bureau Veritas (India) Private Limited.
+23
+35th Annual Report  2024-25
+
+8.	 Does	the	entity	have	any	 project	related	to	reducing	Green	House	Gas	emission?	If	Yes,	then	provide	details.
+ Yes, various initiatives are implemented to reduce the Green House Gas emissions (GHG).
+ Key initiatives taken to reduce GHG emissions are:
+ • Replacing Reciprocating brine chilling plant with screw brine chilling plant.
+ •  Replacing screw type air compressors with centrifugal type air compressors and purge type ADU with HOC (Heat of 
+Compression) type ADU (Air Dryer Unit).
+ • Recovering and re-using of steam condensate for boiler operations.
+ • Recovering and re-using of heat energy from flash steam letting out to atmospheres.
+ • Installed LT capacitor bank panel with automatic power factor controller.
+ • Replacing of steam ejectors with dry vacuum pumps.
+ • Installing Dissolved Oxygen (DO) analyzer for biological aeration tank to optimize operation of the blowers.
+ • Installation of add-on system for brine secondary pumps.
+ • Optimized utility usage by replacing brine with RT water for Heat Exchangers.
+ • Implementing green chemistry principles in process operation.
+9.	 Provide	details	related	to 	waste	management	by	the	entity,	in	the	following	format:
+Parameter FY 2024-25 FY 2023-24
+Total Waste generated (in metric tonnes)
+Plastic waste (A) 539.68  655.26
+E-waste (B) 8.67  3.25
+Bio-medical waste (C) 0.48  0.48
+Construction and demolition waste (D) 3,626.24  3,547.35
+Battery waste  (E) 39.60  24.45
+Radioactive waste  (F) 0 0
+Other Hazardous waste. Please specify, if any. (G) 1,34,821.12 88,471.01
+Other Non-hazardous waste generated (H). Please specify, if any.
+(Break-up by composition i.e. by materials relevant to the sector)26,401.11  22,144.29
+Total (A+B + C + D + E + F + G+ H) 1,65,436.90  1,14,846.09
+Waste intensity per rupee of turnover
+(Total waste generated / Revenue from operations)0.0000018 0.0000015
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity 
+(PPP)#
+(Total waste generated / Revenue from operations adjusted for PPP)0.0000372 0.0000306
+Waste intensity in terms of physical output 2.61 MT/MT 1.75 MT/MT
+For each category of waste generated, total waste recovered through 
+recycling, re-using or other recovery operations (in metric tonnes)
+Category of waste
+(i) Recycled 76,957.43 31,166.74
+(ii) Re-used 41,855.60 33,536.31
+(iii) Other recovery operations 32,319.05 31,830.38
+Total 1,51,132.08 96,533.43
+24
+35th Annual Report  2024-25
+
+Parameter FY 2024-25 FY 2023-24
+For each category of waste generated, total waste disposed by nature of 
+disposal method (in metric tonnes)
+Category of waste
+(i) Incineration  31.74 36.03
+(ii) Landfilling  14,960.43 17,909.68
+(iii)  Other disposal operations 0.045 0
+Total 14,992.22 17,945.71
+  # The revenue from operations has been adjusted for PPP based on the latest PPP conversion factor published by the IMF- for India. (Ref: https://
+www.imf.org/external/datamapper/PPPEX@WEO/OEMDC/IND .)
+  Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+ Yes, Bureau Veritas (India) Private Limited.
+10.		Briefly	describe	 the	waste	management	 practices	 adopted	 in	your	establishments.	 Describe	 the	strategy	 adopted	
+by	your	company	 to	reduce	usage	of	hazardous	 and	toxic	chemicals	 in	your	products	 and	processes	 and	the	
+practices adopted to manage such wastes.
+  Hazardous & Other Waste, most of the waste is Co-processed as alternative fuel instead of incineration which shall cutdown 
+the incinerated ash sent for Landfill. Organic / distillation bottom residues which possess calorific value are sent to cement 
+industries as alternate fuel in the kilns. Inorganic solid wastes are disposed to TSDF (An authorized Govt. secure land fill) 
+and or to authorized re-processor.
+  ~88% of our hazardous waste is sent to cement industries and recyclers for co-processing and recycling. The remaining 
+~12% of hazardous waste is sent to landfilling and incineration. Other non-hazardous waste such as glass, MS scrap, wood 
+waste, boiler ash etc. is sent to recyclers, cement industries for co-processing or to brick manufacturers.
+  The plastic waste (packaging and other type) generated from our operations is collected, segregated at source and sent to 
+authorised recyclers by following all applicable local regulations. E-waste generated from our operations is collected and 
+transferred to authorised recyclers / dismantling agencies by following all applicable local regulations.
+  We treat all our waste as a value stream and 3R’s strategy is effectively implementing to reduce its impact on Environment. 
+We reduce waste through technological interventions and by implementing green chemistry principles. Ongoing initiatives 
+increasing usage time cycles, segregation of waste at point of generation, process optimization, packaging optimization / 
+changes in packaging types, multistage scrubbers etc. We have shifted to jumbo bags from small size packaging, getting 
+RMs in bulk tankers instead of in plastic drums.
+11.		If	the	entity	has	operations/offices	 in/around	 ecologically	 sensitive	 areas	(such	as	national	 parks,	wildlife	
+sanctuaries,	 biosphere	 reserves,	 wetlands,	 biodiversity	 hotspots,	 forests,	 coastal	 regulation	 zones	etc.)	where	
+environmental	approvals	/	clearances	are	required,	please	specify	details	in	the	following	format:
+  The Company does not have any of its manufacturing facilities in ecologically sensitive areas.
+12.		Details	of	environmental 	impact	assessments	 of	projects	 undertaken	 by	the	entity	based	on	applicable	 laws,	in	
+the	current	financial	year:
+  In the current financial year, no environmental impact assessments studies were undertaken.
+13.		Is	the	entity	compliant	 with	the	applicable	 environmental	 law/	regulations/	 guidelines	 in	India;	such	as	the	Water	
+(Prevention	 and	Control	 of	Pollution)	 Act,	Air	(Prevention	 and	Control	 of	Pollution)	 Act,	Environment	 protection	
+act	and	rules	thereunder	(Y/N).	If	not,	provide	details	of	all	such	non-compliances,	in	the	following	format:
+  Yes, we are compliant with the applicable environmental law/ regulations/ guidelines in India.
+25
+35th Annual Report  2024-25
+
+Leadership indicators
+1.	 Water	withdrawal,	consumption	and	discharge	in	areas 	of	water	stress	(in	kilolitres):
+ Not Applicable. Our facilities are not located in areas of water stress.
+2.	 Please	provide	details	of	 total	Scope	3	emissions	&	its	intensity,	in	the	following	format:
+Parameter Unit FY 2024-25 FY 2023-24
+Total Scope 3 emissions
+(Break-up of the GHG into CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, 
+if available)Metric tonnes of CO2
+equivalent8,96,952 8,32,196
+Total Scope 3 emissions per rupee of turnover MT CO2e/ Rupees 0.00000975 0.0000109
+Total Scope 3 emission intensity  (optional) – the relevant 
+metric may be selected by the entityMT CO2e/ MT 14.16 12.68
+  Note: Indicate if any independent assessment/ evaluation/assurance has been carried out by an external agency? (Y/N) If 
+yes, name of the external agency.
+ Yes, Bureau Veritas (India) Private Limited
+3.		With	respect	 to	the	ecologically	 sensitive	 areas	reported	 at	Question	 11	of	Essential	 Indicators	 above,	provide	
+details	of	significant	 direct	&	indirect	 impact	of	the	entity	on	biodiversity	 in	such	areas	along-with	 prevention	 and	
+remediation activities.
+  Not applicable.
+4.		If	the	entity	has	undertaken	 any	specific	 initiatives	 or	used	innovative	 technology	 or	solutions	 to	improve	 resource	
+efficiency,	 or	reduce	impact	due	to	emissions	 /	effluent	 discharge	 /	waste	generated,	 please	provide	 details	of	the	
+same	as	well	as	outcome	of	such	initiatives,	as	per	the	following	format:
+Sr. 
+NoInitiative 
+undertakenDetails of the initiative (Web-link, if any, may be provided along-with 
+summary)Outcome of the initiative
+01 Reducing carbon 
+footprintKey initiatives:
+•  Replacing screw type air compressors with centrifugal type air 
+compressors and purge type ADU with HOC (Heat of Compression) type 
+ADU (Air Dryer Unit).
+• Replacing of steam ejectors with dry vacuum pumps.
+•  Recovering and reusing of steam condensate water for boiler operations.
+•  Optimized utility usage by replacing brine with RT water for Heat 
+Exchangers.~6,350 TCO2e emissions were 
+reduced with the initiatives 
+taken during the reporting 
+period
+02 Water 
+managementKey initiatives:
+• Using of RO water as feed in cooling towers.
+•  Recovering and reusing of steam condensate water for boiler operations.
+• Design modifications and validation of scrubber systems.
+•  Re-using of steam condensate for cleaning purpose which is unsuitable 
+for boiler operations.~92,130 KL of water was 
+conserved with the initiatives 
+taken during the reporting 
+period
+26
+35th Annual Report  2024-25
+
+Sr. 
+NoInitiative 
+undertakenDetails of the initiative (Web-link, if any, may be provided along-with 
+summary)Outcome of the initiative
+03 Energy 
+managementKey initiatives:
+•  Replacing screw type air compressors with centrifugal type air 
+compressors and purge type ADU with HOC (Heat of Compression) type 
+ADU (Air Dryer Unit).
+•  Replacing of reciprocating brine chilling system with screw-type chilling 
+system.
+•  Installed LT capacitor panels with Automatic Power Factor Controllers 
+(APFC).
+•  Installing Dissolved Oxygen (DO) analyzer for biological aeration tank to 
+optimize operation of the blowers.~34,870 GJ of energy was 
+conserved with the initiatives 
+taken during the reporting 
+period
+04 Waste 
+managementKey initiatives:
+•  Implemented process improvements guided by the Principles of Green 
+Chemistry, enhancing the recovery and reuse potential across operations.
+•  Established dedicated solvent recovery stations to enable the efficient 
+reuse of solvents and minimize waste.
+•  Adopted conventional slurry transfer methods in place of container off-
+loading, tailored to material properties, process parameters, and facility 
+design.
+•  Reused final wash/rinse water for initial rinse steps in production 
+processes, reducing fresh water consumption and overall waste.~35 MT of plastic waste was 
+reduced with the initiatives 
+taken during the reporting 
+period
+5.		Does	the	entity	have	a	business	continuity	and	disaster 	management	plan?	Give	details	in	100	words/	web	link.
+  Yes, the Company has developed business continuity and disaster management plan. The plans are developed keeping 
+in view of various risks which could be mitigated / minimized. However, despite the plans and comprehensive standard 
+operating procedures (SOPs) for various situations, unforeseen events/risks may cause interruption to the Company’s 
+operations. The plans are aimed at continuing Company’s operations with the least possible interruptions.
+6.		Disclose	 any	significant	 adverse	 impact	to	the	environment,	 arising	from	the	value	chain	of	the	entity.	What	
+mitigation or adaptation measures have been taken by the entity in this regard.
+  No significant adverse impact to the environment were reported from the value chain of the entity.
+7.		Percentage	 of	value	chain	partners	 (by	value	of	business	 done	with	such	partners)	 that	were	assessed	 for	
+environmental impacts.
+  Assessment of value chain partners has commenced and ~65.16% of our supply chain partners by value have responded 
+to participate in our assessment.
+8.	 How	many	Green	Credits	have	been	generated	or	procured:
+ a. By the listed entity: Nil
+ b. By the top ten (in terms of value of purchases and sales, respectively) value chain partners:
+   Data is currently not available. The Company will seek necessary information from value chain partners for future 
+year’s reporting.
+27
+35th Annual Report  2024-25
+
+PRINCIPLE 7:   Businesses, when engaging in influencing public and regulatory policy, should do so in a 
+manner that is responsible and transparent:
+Essential indicators
+1.	 a.	 Number	of	affiliations	with	trade	and	industry	chambers/	associations.
+  The Company is associated with 9 trade and industry chambers/ associations.
+	 b.	 	List	the	top	10	trade	and	industry	 chambers/	 associations	 (determined	 based	on	the	total	members	 of	such	
+body)	the	entity	is	a	member	of/	affiliated	to.
+S. 
+No.Name of the trade and industry chambers/ associationsReach of trade and industry chambers/ 
+associations (State/National)
+1. National Safety Council National
+2. Indian Chemical Council National
+3. Confederation of Indian Industry National
+4. Pharmaceuticals Export Promotion Council of India National
+5. Bulk Drug Manufacturers Association National
+6. National Fire Protection Association National
+7. Swiss-India Chamber of Commerce International
+8. American Industrial Hygiene Association (AIHA) International
+9. Federation of Telangana Chambers of Commerce and Industry State
+2.  Provide details of corrective action taken or underway on any issues related to anti- competitive conduct by the 
+entity,	based	on	adverse	orders	from	regulatory	authorities.
+ Not Applicable
+Leadership indicators
+1.	 Details	of	public	policy	positions	advocated	by	the	entity:
+ Not Applicable
+PRINCIPLE 8:  Businesses should promote inclusive growth and equitable development
+Essential indicators
+1.		Details	of	Social	Impact	Assessments	 (SIA)	of	projects	 undertaken	 by	the	entity	based	on	applicable	 laws,	in	the	
+current	financial	year.
+  Not Applicable.
+2.		Provide	 information	 on	project(s)	 for	which	ongoing	 Rehabilitation	 and	Resettlement	 (R&R)	is	being	undertaken	
+by	your	entity,	in	the	following	format:
+ Not Applicable.
+3. Describe the mechanisms to receive and redress grievances of the community.
+  A grievance redressal mechanism is in place consisting of CSR team members to receive and redress grievances of the 
+community and also an effective whistle blower policy at corporate level.
+4.	 Percentage	of	input	material	(inputs	to	total	inputs	by	value)	sourced	from	suppliers:
+FY 2024-25 FY 2023-24
+Directly sourced from MSMEs/ small producers 16.82 % 18.36 %
+Sourced directly from within the district and neighboring districts (India) 63.78 % 64.37 %
+28
+35th Annual Report  2024-25
+
+5.		Job	creation	 in	smaller	 towns	–	Disclose	 wages	paid	to	persons	 employed	 (including	 employees	 or	workers	
+employed	 on	a	permanent	 or	non-permanent	 /	on	contract	 basis)	in	the	following	 locations,	 as	%	of	total	wage	
+cost
+Location FY 2024-25 FY 2023-34
+Rural 72.08% 71.72%
+Semi-urban 21.31% 21.55%
+Urban 6.61% 6.73%
+Metropolitan 0 0
+ (Place to be categorized as per RBI Classification System - rural / semi-urban / urban / metropolitan)
+Leadership indicators
+1.		Provide	 details	of	actions	taken	to	mitigate	 any	negative	 social	impacts	 identified	 in	the	Social	Impact	Assessments	
+(Reference:	Question	1	of	Essential	Indicators	above):	 Not applicable.
+2.		Provide	 the	following	 information	 on	CSR	projects	 undertaken	 by	your	entity	in	designated	 aspirational	 districts	
+as	identified	by	government	bodies:
+S. 
+No.State Aspirational District Amount Spent (in ` crores)
+1 Andhra Pradesh Visakhapatnam 11.22
+2 Andhra Pradesh Vizianagaram 0.40
+3. a)		Do	you	have	a	preferential	 procurement	 policy	where	you	give	preference	 to	purchase	 from	suppliers	
+comprising	marginalized	/vulnerable	groups?
+  No
+	 b)	 From	which	marginalized	/vulnerable	groups	do	you	procure?
+  NA
+	 c)	 What	 percentage	of	total	procurement	(by	value)	does	it	constitute?
+  NA
+4.		Details	of	the	benefits	 derived	 and	shared	from	the	intellectual	 properties	 owned	or	acquired	 by	your	entity	(in	
+the	current	financial	year),	based	on	traditional	knowledge:
+S. 
+No.Intellectual property based on 
+traditional knowledgeOwned/ Acquired  
+(Yes/no)Benefit shared  
+(Yes/no)Basis of calculating 
+benefit share
+Not applicable Not applicable Not applicable Not applicable
+5.		Details	of	corrective	 actions	 taken	or	underway,	 based	on	any	adverse	 order	in	intellectual	 property	 related	
+disputes	wherein	usage	of	traditional	knowledge	is	involved:
+Name of authority Brief of the case Corrective action taken
+Not applicable Not applicable Not applicable
+29
+35th Annual Report  2024-25
+
+6.	 Details	of	beneficiaries	of 	CSR	Projects:
+S. 
+No.CSR ProjectNo. of persons benefitted 
+from CSR projects% of beneficiaries from vulnerable  
+and marginalized groups
+1 Promoting education 82,201 Our CSR initiatives are implemented with an objective 
+to reach out to the vulnerable and marginalized 
+communities, including persons with disabilities, 
+elderly, women and children from the less privileged 
+socio-economic sections of the society.2 Preventive healthcare 1,08,953
+3 Village development 1,02,480
+4 Empowering women 10,085
+5 Animal welfare 5,400
+6 Support to differently abled 60
+7 Livelihood enhancement projects 1,641
+8 Safe drinking water 8,20,585
+9 Environment sustainability 37,948
+10 Promoting rural sports 3,557
+11 Swachh bharat 1,33,803
+PRINCIPLE 9:   Businesses should engage with and provide value to their consumers in a responsible 
+manner
+Essential indicators
+1. Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+  Divi’s manufactures Active Pharmaceutical Ingredients (APIs), API Intermediates, Nutraceuticals, and supplies them to 
+customers for further manufacturing to make respective finished dosage products. Being a Business-to-business (B2B) 
+company, we deal with relatively small number of large customers. We have established procedures to receive customer 
+complaints whether received in oral or in writing and respond back to customers within agreed timelines. The customer 
+complaints are concluded and closed upon mutual agreement.
+2.		Turnover	 of	products	 and/	services	 as	a	percentage	 of	turnover	 from	all	products/service	 that	carry	information	
+about:
+As a percentage to total turnover
+Environmental and social parameters relevant to the product The Company complies with all the regulatory 
+requirements in relation to the display of information 
+on product label.Safe and responsible usage
+Recycling and/ or safe disposal
+3.	 Number	of	consumer	complaints	in	respect	of	the	following:
+FY 2024-25
+Remarks FY 2023-24
+RemarksReceived 
+during the 
+yearPending 
+resolution at 
+end of yearReceived 
+during the 
+yearPending 
+resolution at 
+end of year
+Data privacy 0 0 - 0 0 -
+Advertising 0 0 - 0 0 -
+Cyber-security 0 0 - 0 0 -
+Delivery of essential services 0 0 - 0 0 -
+Restrictive Trade Practices 0 0 - 0 0 -
+Unfair Trade Practices 0 0 - 0 0 -
+Other 0 0 - 0 0 -
+30
+35th Annual Report  2024-25
+
+4.	 Details	of	instances	of	product	recalls	on	account	of	safety	issues:
+Number Reasons for recall
+Voluntary recalls Nil -
+Forced recalls Nil -
+5.		Does	the	entity	have	a	framework/	 policy	on	cyber	security	 and	risks	related	to	data	privacy?	 (Yes/No)	 If	available,	
+provide a web-link of the policy.
+  Yes, we are following a set of Information Security Policies which are aligned to ISO 27001. The policies are shared with the 
+relevant stakeholders and are also available on the intranet platform of the Company.
+6.		Provide	 details	of	any	corrective	 actions	 taken	or	underway	 on	issues	relating	 to	advertising,	 and	delivery	 of	
+essential	 services;	 cyber	security	 and	data	privacy	 of	customers;	 re-occurrence	 of	instances	 of	product	 recalls;	
+penalty	/	action	taken	by	regulatory	authorities	on	safety	of	products	/	services.
+  No corrective actions were warranted during the year, as no issues or instances as stated above have occurred during the 
+year under review.
+7.	 Provide	the	following	information	relating	to	data	breaches:	
+ a) Number of instances of data breaches along-with impact: Nil
+ b) Percentage of data breaches involving personally identifiable information of customers: 0%
+ c) Impact, if any, of the data breaches: Not applicable
+Leadership indicators
+1.		Channels	 /	platforms	 where	information	 on	products	 and	services	 of	the	entity	can	be	accessed	 (provide	 web	link,	
+if	available).
+  The information on products and services of the Company can be accessed from website of the Company at https://www.
+divislabs.com/
+2.	 Steps	taken	to	inform	and 	educate	consumers	about	safe	and	responsible	usage	of	products	and/or	services.
+  As Divi’s manufactures active pharmaceutical ingredients (APIs), API intermediates and supplies to customers for further 
+manufacturing to make respective finished drug products, we have no direct consumers. However, Storage and handling 
+conditions/measures are displayed on the labels of each material container shipped to our customers.
+3.	 Mechanisms	in	place	to	inform	consumers	of	any	risk	of	disruption/discontinuation	of	essential	services.
+  Divi’s manufactures Active Pharmaceutical Ingredients (APIs), API Intermediates, Nutraceuticals and supplies to customers 
+for further manufacturing to make respective finished dosage products. Being a Business-to-business (B2B) company, 
+we deal with relatively small number of large customers. We keep our customers informed of any risk of disruption/
+discontinuation of supplies in a prompt manner as agreed with them.
+4.  Does the entity display product information on the product over and above what is mandated as per local laws? 
+(Yes/No/Not	Applicable)	If	yes,	provide	details	in	brief.
+  Yes, product information displayed on the label of product container like name of product and grade (USP/EP/BP/IP), 
+unique batch number, date of manufacture & retest date, quantity, manufacturing site address and license details, storage 
+and handling conditions/precautions, approved by sign from quality department.
+  Did your entity carry out any survey with regard to consumer satisfaction relating to the major products / services of the 
+entity, significant locations of operation of the entity or the entity as a whole? (Yes/No)
+  Yes, the Company has a mechanism to survey the customer satisfaction level for all its products / services.
+31
+35th Annual Report  2024-25
+
+To
+The Board of Directors of
+Divi’s Laboratories Limited
+Introduction and objectives of work
+The Board of Directors of Divi’s Laboratories Limited (the 
+‘Company’) have engaged us for providing Assurance Report 
+on identified sustainability information in the Business 
+Responsibility & Sustainability Report (BRSR) of the Company 
+for the year ended March 31, 2025 including relevant 
+information of the previous year disclosed in the BRSR.
+Our scope of work consists of Reasonable Assurance on 
+BRSR Core indicators in the BRSR Report, as described in the 
+Securities and Exchange Board of India’s (SEBI) circular SEBI/
+HO/CFD/CFD-SEC-2/P/CIR/2023/122 dated July12, 2023 & 
+SEBI/HO/CFD/CFD-PoD-1/P/CIR/2024/177 dated December 
+20, 2024 and clarifications thereto, read with applicable SEBI 
+Regulations and prescribed format, as amended.
+Opinion
+Reasonable Assurance for 9 BRSR-Core Parameters 
+(Refer to Annexure-1)
+We have performed a Reasonable Assurance engagement on 
+whether the Company’s identified sustainability information 
+i.e. BRSR Core indicators disclosed in the BRSR report for 
+the period from April 01, 2024 to March 31, 2025 including 
+relevant information of the previous year disclosed in the 
+BRSR, has been prepared in accordance with the Regulation 
+34(2)(f) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, guidance notes for BRSR 
+format issued by SEBI.
+In our opinion, the Company’s BRSR Core indicators 
+disclosed in the BRSR report for the period from April 01, 
+2024 to March 31, 2025 including relevant information of the 
+previous year disclosed in the BRSR subject to reasonable 
+assurance is prepared in all material respects, in accordance 
+with the Regulation 34(2)(f) of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 and basis of 
+preparation as set out in Section A General Disclosures 13 of 
+the BRSR Report for the year ended March 31, 2025.
+The Company has established appropriate systems for the 
+collection, aggregation, and analysis of quantitative data on 
+all BRSR Core indicators.
+Our opinion is not modified in respect of this matter.Independent Practitioner’s Reasonable Assurance Report
+Basis for opinion and summary of our work
+We have performed the Reasonable Assurance engagement 
+in accordance with International Standard on Assurance 
+Engagements (ISAE) 3000 (Revised) and in line with the 
+requirements of Bureau Veritas’s Internal Standards and 
+Requirements for assurance of Sustainability Reports.
+As part of its independent reasonable assurance engagement, 
+we assessed the appropriateness and robustness of 
+underlying reporting systems and processes, used to collect, 
+analyse and review the information reported. In this process, 
+we undertook the following activities:
+•  Assessment was conducted by means of physical site 
+visits at Head Office (HO), Unit 1, Unit 2, Unit 3 & Divi’s 
+Research Centre (DRC). Bureau Veritas interviewed 
+personnel of Divi’s including Environment, Health & 
+Safety (EHS) team, Environment compliance Department 
+(ECD), Engineering, Personal & Administration, Purchase, 
+Accounts & Corporate Secretarial and other relevant 
+departments.
+•  The assurance process involved carrying out an 
+Assessment by experienced assessors from Bureau 
+Veritas.
+•  The Company had submitted performance data on 
+reported BRSR topics. The data pertaining to each 
+location visited was assessed by Bureau Veritas through 
+the process above described.
+•  Data on various BRSR attributes were assessed for the 
+locations that were visited. Later, it was confirmed that 
+the same assessed data went into preparation of the 
+final data within the BRSR Report for the FY 2024-25.
+•  Review of Company’s data and information systems for 
+collection, aggregation, analysis and review.
+Our work was conducted against Bureau Veritas’ standard 
+procedures and guidelines for external Assurance of 
+Sustainability Reports, based on the current best practice in 
+independent assurance.
+Management responsibility
+The Selection of reporting criteria, reporting period, reporting 
+boundary, monitoring and measurement of data, preparation, 
+and presentation of information in the BRSR report are the 
+sole responsibility of the Company and its management. 
+We are not involved in drafting or preparation of BRSR 
+Report. Our sole responsibility was to provide independent 
+reasonable assurance on BRSR Core indicators stated in the 
+BRSR report for the year ended March 31, 2025.
+32
+35th Annual Report  2024-25
+
+Our responsibility
+We are responsible for performing Reasonable Assurance on 
+the BRSR Core indicators in the BRSR Report of the Company 
+for the period from April 01, 2024 to March 31, 2025 including 
+relevant information of the previous year disclosed in the 
+BRSR report, are free from material misstatements, whether 
+due to fraud or error, in accordance with the reporting 
+requirements stated above. Our responsibility includes 
+forming an independent opinion, based on the procedures 
+performed by us and the evidence we have obtained, and 
+reporting our reasonable assurance opinion on the BRSR 
+Core indicators to the Directors of Divi’s Laboratories Limited.
+Limitations and exclusions
+Excluded from the scope of our work is any assurance of 
+information relating to:
+•  Activities outside the defined assurance period.
+•  Positional statements (expressions of opinion, belief, 
+aim or future intention by Divi’s Laboratories Limited 
+and statements of future commitment.
+•  Competitive claims in the report claiming, “first company 
+in India”, “first time in India”, “first of its kind”, etc.
+Our assurance does not extend to the activities and 
+operations of Divi’s Laboratories Limited outside of the 
+scope and geographical boundaries as well as the operations 
+undertaken by any subsidiaries or joint ventures of the 
+Company.
+This independent statement should not be relied upon to 
+detect all errors, omissions or misstatements that may exist 
+within the Report.
+Statement of independence, integrity, and 
+competence
+Bureau Veritas is an independent professional services 
+company that specialises in quality, environmental, health, 
+safety, and social accountability with over 196 years history. 
+Its assurance team has extensive experience in conducting 
+assessment over environmental, social, ethical and health 
+and safety information, systems and processes.Bureau Veritas operates a certified Quality Management 
+System which complies with the requirements of ISO 
+9001:2015, and accordingly maintains a comprehensive 
+system of quality control including documented policies and 
+procedures regarding compliance with ethical requirements, 
+professional standards and applicable legal and regulatory 
+requirements.
+Bureau Veritas has implemented and applies a Code of 
+Ethics, which meets the requirements of the International 
+Federation of Inspections Agencies (IFIA), across the business 
+to ensure that its employees maintain integrity, objectivity, 
+professional competence and due care, confidentiality, 
+professional behaviour, and high ethical standards in their 
+day-to-day business activities.
+The assurance team for this work does not have any 
+involvement in any other Bureau Veritas projects with Divi’s 
+Laboratories Limited.
+Competence
+The assurance team has extensive experience in conducting 
+assurance over environmental, social, ethical, and health 
+& safety information, systems and processes an excellent 
+understanding of Bureau Veritas standard methodology for 
+the Assurance of Sustainability Reports.
+Restriction on use of our Report
+Our Reasonable assurance report has been prepared and 
+addressed to the Board of Directors of the Company at 
+the request of the company solely to assist the company 
+in reporting on the Company’s Sustainability performance 
+and activities. Accordingly, we accept no liability to anyone, 
+other than the Company. Our deliverables should not be 
+used for any other purpose or by any person other than the 
+addressees of our deliverables. The Firm neither accepts nor 
+assumes any duty of care or liability for any other purpose 
+or to any other party to whom our Deliverables are shown 
+or into whose hands it may come without our prior consent 
+in writing.
+M Rama Mohan Rao  Rupam Baruah
+Lead Assuror  Technical Reviewer
+Bureau Veritas India Private Limited   Bureau Veritas India Private Limited
+Date: May 17, 2025  Date: May 17, 2025
+Place: Hyderabad  Place: Mumbai
+33
+35th Annual Report  2024-25
+
+Reasonable level of assurance is provided for following ‘9 Indicators included in BRSR-Core Attributes’
+Sl. 
+NoAttribute Parameter Cross Reference to the BRSR
+1 Greenhouse Gas (GHG) Footprint Scope 1 Emissions Principle 6, Question 7 of Essential Indicators
+Scope 2 Emissions
+GHG Emission Intensity
+2 Water Footprint Total Water Consumption Principle 6, Question 3 of Essential Indicators
+Water Intensity
+Water Discharge Principle 6, Question 4 of Essential Indicators
+3 Energy Footprint Total Energy Consumed Principle 6, Question 1 of Essential Indicators
+% from Renewable Sources
+Energy Intensity
+4 Waste Management (Circularity) Category-wise Waste Generation Principle 6, Question 9 of Essential Indicators
+Waste Intensity & Recovery
+5 Employee Wellbeing and Safety Spending on Well-being Principle 3, Question 1(c) of Essential Indicators
+Safety Incidents Principle 3, Question 11 of Essential Indicators
+6 Gender Diversity Wages Paid to Females Principle 5, Question 3(b) of Essential Indicators
+POSH Complaints Principle 5, Question 7 of Essential Indicators
+7 Inclusive Development MSME/Indian Sourcing Principle 8, Question 4 of Essential Indicators
+Wages in Smaller Towns Principle 8, Question 5 of Essential Indicators
+8 Customer & Supplier Fairness Data Breach Incidents Principle 9, Question 7 of Essential Indicators
+Accounts Payable Days Principle 1, Question 8 of Essential Indicators
+9 Business Openness Related Party Transactions & 
+ConcentrationPrinciple 1, Question 9 of Essential IndicatorsAnnexure 1
+34
+35th Annual Report  2024-25
+

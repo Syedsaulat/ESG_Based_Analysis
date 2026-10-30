@@ -1,0 +1,82 @@
+{
+  "Environment": {
+    "Carbon": {
+      "weight": 0.4,
+      "fields": {
+        "scope1_tco2e": { "min": 1000, "max": 500000 },
+        "scope2_tco2e": { "min": 500, "max": 200000 },
+        "scope3_tco2e": { "min": 5000, "max": 1000000 },
+        "ghg_total_tco2e": { "min": 1000, "max": 500000 },
+        "ghg_intensity_tco2e_per_revenue": { "min": 0.01, "max": 1.0 }
+      }
+    },
+    "Energy": {
+      "weight": 0.3,
+      "fields": {
+        "energy_consumption_total_mwh": { "min": 1000, "max": 100000 },
+        "energy_from_renewables_mwh": { "min": 0, "max": 50000 },
+        "renewable_energy_percent": { "min": 0, "max": 80 }
+      }
+    },
+    "Water": {
+      "weight": 0.3,
+      "fields": {
+        "water_withdrawal_kl": { "min": 1000, "max": 500000 },
+        "water_consumption_kl": { "min": 1000, "max": 300000 },
+        "water_recycled_percent": { "min": 0, "max": 100 }
+      }
+    }
+  },
+  "Social": {
+    "Diversity": {
+      "weight": 0.4,
+      "fields": {
+        "female_percent": { "min": 0, "max": 50 },
+        "women_in_board_percent": { "min": 0, "max": 40 },
+        "women_in_senior_mgmt_percent": { "min": 0, "max": 40 }
+      }
+    },
+    "Workforce": {
+      "weight": 0.3,
+      "fields": {
+        "attrition_rate_percent": { "min": 0, "max": 30 },
+        "training_hours_per_employee": { "min": 5, "max": 50 },
+        "training_coverage_percent": { "min": 0, "max": 100 }
+      }
+    },
+    "CSR": {
+      "weight": 0.3,
+      "fields": {
+        "csr_spend_million_inr": { "min": 1, "max": 200 },
+        "csr_beneficiaries_count": { "min": 1000, "max": 1000000 }
+      }
+    }
+  },
+  "Governance": {
+    "Board": {
+      "weight": 0.4,
+      "fields": {
+        "board_size_count": { "min": 5, "max": 20 },
+        "independent_directors_percent": { "min": 0, "max": 100 },
+        "women_directors_percent": { "min": 0, "max": 40 }
+      }
+    },
+    "Committees": {
+      "weight": 0.3,
+      "fields": {
+        "esg_board_committee_exists": { "min": 0, "max": 1 },
+        "audit_committee_exists": { "min": 0, "max": 1 },
+        "risk_committee_exists": { "min": 0, "max": 1 },
+        "board_meetings_count": { "min": 2, "max": 12 }
+      }
+    },
+    "Compliance": {
+      "weight": 0.3,
+      "fields": {
+        "whistleblower_complaints_resolved": { "min": 0, "max": 100 },
+        "regulatory_penalties_count": { "min": 0, "max": 50 },
+        "standards_and_certifications": { "min": 0, "max": 10 }
+      }
+    }
+  }
+}

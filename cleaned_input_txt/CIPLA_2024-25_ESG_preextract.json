@@ -1,0 +1,19 @@
+{
+  "pre_extracted": {
+    "scope1_tco2e": 129087.0,
+    "scope2_tco2e": 129087.0,
+    "board_size_count": 2.0
+  },
+  "stats": {
+    "original_length": 66160,
+    "cleaned_length": 63967,
+    "sections_found": [
+      "Environment",
+      "Social",
+      "Governance",
+      "General"
+    ],
+    "metrics_pre_extracted": 3,
+    "tables_detected": 64
+  }
+}

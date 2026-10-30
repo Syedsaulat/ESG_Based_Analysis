@@ -1,0 +1,24 @@
+{
+  "pre_extracted": {
+    "total_employees": 23330.0,
+    "attrition_rate_percent": 19.62,
+    "renewable_energy_percent": 39.0,
+    "permanent_employees": 19.0,
+    "contract_workers": 43.0,
+    "male_percent": 100.0,
+    "female_percent": 100.0,
+    "board_size_count": 2.0
+  },
+  "stats": {
+    "original_length": 122917,
+    "cleaned_length": 119116,
+    "sections_found": [
+      "Environment",
+      "Social",
+      "Governance",
+      "General"
+    ],
+    "metrics_pre_extracted": 8,
+    "tables_detected": 87
+  }
+}

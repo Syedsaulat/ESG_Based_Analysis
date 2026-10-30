@@ -1,0 +1,25 @@
+{
+  "pre_extracted": {
+    "attrition_rate_percent": 13.9,
+    "energy_consumption_total_mwh": 2.0,
+    "total_employees": 16023.0,
+    "permanent_employees": 14.0,
+    "contract_workers": 1348.0,
+    "male_percent": 92.57,
+    "female_percent": 98.33,
+    "csr_spend_million_inr": 508.34,
+    "board_size_count": 1.0
+  },
+  "stats": {
+    "original_length": 144745,
+    "cleaned_length": 139785,
+    "sections_found": [
+      "Environment",
+      "Social",
+      "Governance",
+      "General"
+    ],
+    "metrics_pre_extracted": 9,
+    "tables_detected": 117
+  }
+}

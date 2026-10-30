@@ -1,0 +1,10 @@
+streamlit>=1.30
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
+groq>=0.9
+
+# GPU fallback (for rate limit handling)
+torch>=2.0
+transformers>=4.40
+accelerate>=0.27

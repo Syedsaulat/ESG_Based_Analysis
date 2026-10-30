@@ -1,0 +1,28 @@
+{
+  "pre_extracted": {
+    "scope1_tco2e": 315457.0,
+    "scope2_tco2e": 181901.0,
+    "total_employees": 6167.0,
+    "board_size_count": 10.0,
+    "women_directors_count": 2.0,
+    "women_directors_percent": 20.0,
+    "women_in_board_percent": 20.0,
+    "attrition_rate_percent": 17.0,
+    "permanent_employees": 1.0,
+    "contract_workers": 6300.0,
+    "male_percent": 100.0,
+    "female_percent": 100.0
+  },
+  "stats": {
+    "original_length": 104683,
+    "cleaned_length": 103447,
+    "sections_found": [
+      "Environment",
+      "Social",
+      "Governance",
+      "General"
+    ],
+    "metrics_pre_extracted": 12,
+    "tables_detected": 54
+  }
+}
